@@ -62,7 +62,7 @@ eg:
 git add ./filename
 ```
 
-#查看ignore的文件
+#查看ignore的文件(包括全局ignore文件)
 
 ```
 git config core.excludesfile
