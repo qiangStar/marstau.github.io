@@ -19,6 +19,13 @@ description:
 **刷新**
 ⌘ + R
 
+####push的提示标签不更新(显示1等数字)，手动pull一下即可。
+
+####stash
+####Repository->修改远程地址
+
+本地保存
+
 #Reference
 
 

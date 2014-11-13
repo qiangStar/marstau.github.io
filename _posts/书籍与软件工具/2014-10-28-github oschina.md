@@ -44,6 +44,12 @@ eg:
 ```
 git clone -b 2 --single-branch https://git.oschina.net/marstau/testing.git
 ```
+####set username and email
+
+```
+git config --global user.name [username]
+git config --global user.mail [email]
+```
 
 #[oschina](http://git.oschina.net/)
 
@@ -52,7 +58,7 @@ git clone -b 2 --single-branch https://git.oschina.net/marstau/testing.git
 ```
 git submodule update --init --recursive
 ```
-#windows下gitignore失效[更多参考](http://blog.lixiphp.com/gitignore-not-flush/#axzz3HvTN3dbF)
+####windows下gitignore失效[更多参考](http://blog.lixiphp.com/gitignore-not-flush/#axzz3HvTN3dbF)
 
 用命令行强制执行此命令,
 eg:
@@ -62,11 +68,17 @@ eg:
 git add ./filename
 ```
 
-#查看ignore的文件(包括全局ignore文件)
+####查看ignore的文件(包括全局ignore文件)
 
 ```
 git config core.excludesfile
 ```
+
+####查看远程url[更多参考](http://www.liuyixi.com/2011/09/29/gitchakanyuanchengcangkudizhi/)
+
+```
+git remote -v
+```  
 
 #Reference
 * <http://stackoverflow.com/questions/4386959/difference-between-head-and-master>
