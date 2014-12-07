@@ -28,6 +28,7 @@ description:
 本地保存
 
 ####cherry->pick
+将一个分支的提交更新到当前分支下
 
 #Reference
 
