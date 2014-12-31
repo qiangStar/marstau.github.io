@@ -777,7 +777,9 @@ description:
      Release版本会将一些变量未初始化的全部初始化，例如float \*block =
     new float[10];debug版本下不会初始化，而release版本会初始化。
      
+* printf打印十六进制
 
+  %08x表示打印8位十六进制数,不足8位则在前面补0
 
 
 
