@@ -11,3 +11,4 @@ description:
 
 * 搜索函数 : ⌘ + R
 
+* 批量缩进和反缩进:(shift +) tab
