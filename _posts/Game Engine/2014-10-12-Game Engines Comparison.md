@@ -214,3 +214,6 @@ OpenSteerDemo's plug-in framework allows a game AI programmer to quickly prototy
 代表系列：尘土飞扬系列、Grid、闪点行动：龙腾……
 ##Geo-Mod
 代表系列：红色派系
+
+##gameplay[更多参考](http://www.oschina.net/p/gameplay)
+黑莓制造商RIM宣布推出跨平台、开源的3D引擎Gameplay。这种3D引擎针对移动平台游戏开发者。
