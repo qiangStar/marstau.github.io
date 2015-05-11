@@ -15,5 +15,8 @@ win+R，输入regedit，调出注册表信息，按下Ctrl+F,在注册表里搜�
 在.git/config文件下添加如下代码：
 
 ```
-
+[credential]
+	helper = store
 ```
+
+输入一次密码后，下次就会记住密码了。
