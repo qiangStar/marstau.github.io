@@ -7,17 +7,17 @@ keywords: TortoiseSVN, svn
 description: 
 ---
 
--   **SVN提交失败**\
+####**SVN提交失败**\
      先清除 所有缓存(settings-\>saved data),然后再clean up,顺序不能颠倒.
--   **文件夹图标不能正常显示**\
+####**文件夹图标不能正常显示**\
 
     Win7上,在安装了TortoiseSVN之后，发现本应在windows资源管理器出现的版本状态显示图标覆盖并没有出现。但能够正常进行各种svn操作。
 
     查看了各种设置都没什么问题。最后发现直接重新安装一次TortoiseSVN，电脑重启之后这些图标覆盖效果就自动正常显示了。
 
-    **应该是网络还不正常导致没有及时连接到svn服务器的原因**。
+####**应该是网络还不正常导致没有及时连接到svn服务器的原因**。
 
--   **<span style="color:#e53333;">TortoiseSVN</span><span
+**<span style="color:#e53333;">TortoiseSVN</span><span
     style="color:#e53333;">右下角图标无法正常显示</span>**
 
     近日，突然发现，TortoiseSVN 的几个覆盖图标消息了，包括：忽略图标、未版本化
@@ -48,9 +48,7 @@ description:
 
     所有应用程序的覆盖图标都需要在注册表
 
-    **“HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVer**
-
-    **sion\\Explorer\\ShellIconOverlayIdentifiers”**下面增加一个项目，当需要显示覆
+ “HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ShellIconOverlayIdentifiers”**下面增加一个项目，当需要显示覆
 
     盖图标时，Windows 会按照项目名称的字母顺利依次查询在这些项目里所指示的接口，以
 
@@ -82,22 +80,21 @@ description:
 
     ![](http://files.note.sdo.com/XbPJ4~kcsZ12wE2C400ilD)
 
--   **TortoiseSVN提交提示423 Locked**
+####**TortoiseSVN提交提示423 Locked**
 
     "TortoiseSVN-\>get locks"在对话框的左下角有个steal the locks选项，勾选这个选项，你就可以窃取别人的锁。然后你就成为锁的拥有者，TortoiseSVN-\>release locks,释放锁，然后commit提交即可。(not
     implemented, what does it mean?)
 
--   **<span style="color:#e53333;">从服务端check
-    out下资源,地址格式是</span>**
+####**<span style="color:#e53333;">从服务端checkout下资源,地址格式是</span>**
 
     <http://192.168.1.39/svn/xc2d/client/3guu/syjt>\
      (记住末尾没有加**/**)
 
--    path not found\
+path not found\
 
     ![](maiku://attachment/{3AE5A903-A378-4CC0-85DA-D24A5F06A3F5}.png)将此目录下的.svn文件删除,重新提交即可。
 
--   405 Method Not Allowed\
+405 Method Not Allowed\
      删除此目录,到上一层目录更新此目录所有文件,然后\
       删除出现错误的文件夹
 
@@ -113,16 +110,18 @@ description:
 
     SVN Commit
 
--   SVN的文件删除后,然后commit即可，就可以在服务器上删除此文件\
+####SVN的文件删除后,然后commit即可，就可以在服务器上删除此文件\
      ps:提交的时候显示的是deleted或者missing
--   **<span style="color:#e53333;">若提交后,</span><span
+####**<span style="color:#e53333;">若提交后,</span><span
     style="color:#e53333;">还是未改变</span>**\
      执行clean up即可。
--   自己可以连VisualSVN服务器，局域网内的其他人无法连接\
+####自己可以连VisualSVN服务器，局域网内的其他人无法连接\
 
     将address设为ip的格式(包含了端口就可以正常连了一开始用的是[https://www-2c1adf32d78/svn/wmw/，所以对方无法连。)](https://www-2c1adf32d78/svn/wmw/)<https://192.168.1.100:8443/svn/wmw/>
 
+####回滚到某个版本
 
+Show Log->选中某个版本->Update Item to reversion->然后再选中文件夹Revert一下就行了。
 
 
 
