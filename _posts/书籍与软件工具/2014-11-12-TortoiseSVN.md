@@ -48,7 +48,11 @@ description:
 
     所有应用程序的覆盖图标都需要在注册表
 
- “HKEY\_LOCAL\_MACHINE\\SOFTWARE\\Microsoft\\Windows\\CurrentVersion\\Explorer\\ShellIconOverlayIdentifiers”**下面增加一个项目，当需要显示覆
+```
+ HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers
+```
+
+下面增加一个项目，当需要显示覆
 
     盖图标时，Windows 会按照项目名称的字母顺利依次查询在这些项目里所指示的接口，以
 
