@@ -80,6 +80,17 @@ git config core.excludesfile
 git remote -v
 ```  
 
+#####若提交不了
+
+在`.git/config`文件下加入如下内容
+
+```
+[user]
+	name = marstau
+	email = taumars@hotmail.com
+```
+
+
 #Reference
 * <http://stackoverflow.com/questions/4386959/difference-between-head-and-master>
 * <http://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin>
