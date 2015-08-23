@@ -90,7 +90,22 @@ git remote -v
 	email = taumars@hotmail.com
 ```
 
+####.md目录设置方法
 
-#Reference
+
+```
+##顶级目录1
+####子目录1
+
+文本1
+
+文本2
+
+####子目录2
+##顶级目录2
+```
+![/Resources/github oschina_1.png]()
+
+##Reference
 * <http://stackoverflow.com/questions/4386959/difference-between-head-and-master>
 * <http://stackoverflow.com/questions/8196544/what-are-the-git-concepts-of-head-master-origin>
