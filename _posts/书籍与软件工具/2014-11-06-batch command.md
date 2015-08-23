@@ -30,7 +30,9 @@ set FromDir=%FileToBeCopied%
 **文件复制**
 
 ```
-xcopy %FromDir%\*.* %ToDir%\*.*  /E /Y 
+xcopy %FromDir%\*.* %ToDir%\*.*  /E /Y (提示出错?)
+
+copy /Y %FromDir%\*.* %ToDir%\*.*
 ```
 
 **暂停**
@@ -135,6 +137,15 @@ for /f "tokens=1,2* delims=\" %%a in (%1) do (
 )
 exit /b 0
 
+```
+
+
+**去掉字符串变量的引号**[More](http://blog.sina.com.cn/s/blog_4ad042e50100p7zx.html)
+
+```
+1. 若为命令行参数 %1 => %~1
+2. 若为for替代变量 %%i => %%~i
+3. 若为环境变量 %var% => %var:"=%
 ```
 
 #Reference
