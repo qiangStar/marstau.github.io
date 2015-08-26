@@ -95,6 +95,7 @@ git remote -v
 
 ```
 ##顶级目录1
+###目录
 ####子目录1
 
 文本1
@@ -104,7 +105,10 @@ git remote -v
 ####子目录2
 ##顶级目录2
 ```
-![/Resources/github oschina_1.png]()
+
+![/Resources/github_oschina_1.png]()
+
+从两个`##`开始都会处理为目录
 
 ##Reference
 * <http://stackoverflow.com/questions/4386959/difference-between-head-and-master>
