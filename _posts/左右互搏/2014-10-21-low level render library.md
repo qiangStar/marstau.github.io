@@ -14,6 +14,6 @@ SDL officially supports Windows, Mac OS X, Linux, iOS, and Android. Support for 
 ##SFML
 ##Allegro
 ##GLFW
-#Reference
+##Reference
 * <http://forums.tigsource.com/index.php?topic=12768.0>
 * <http://www.libsdl.org/projects/SDL_mixer/>

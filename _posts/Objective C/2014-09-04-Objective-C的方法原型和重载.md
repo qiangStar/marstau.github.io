@@ -71,6 +71,6 @@ calculateArea:andHeight:
 不带参数描述的方式不推荐，会让程序不好理解，还有就是区别方法只能依据方法名与参数的个数了，方法重复定义的可能性就大了。像前面只要方法名是 set 的任何两个参数的方法都是相同的。
 
 
-#Reference
+##Reference
 * <http://blog.csdn.net/lonelyroamer/article/details/7661745>
 * <https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/DefiningClasses/DefiningClasses.html>

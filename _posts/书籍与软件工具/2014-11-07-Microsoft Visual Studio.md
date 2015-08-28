@@ -195,7 +195,7 @@ style="word-spacing:0px;font:14px/26px Arial;text-transform:none;color:#333333;t
 之前用了VS2008命令行编译，复制了mspdb80.dll文件过来，删除即可，目录:D:\\Program Files\\Microsoft Visual Studio 9.0\\VC\\bin。
 
 
-#Reference
+##Reference
 * <http://msdn.microsoft.com/zh-cn/library/ff636699.aspx>
 * <http://blog.csdn.net/tszhao/article/details/6753276>
 

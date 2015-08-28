@@ -24,6 +24,6 @@ description:
 
 ![](/Resources/cocos_studio_4.png)
 
-#Reference
+##Reference
 
 * []()

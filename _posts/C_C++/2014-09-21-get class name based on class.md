@@ -100,5 +100,5 @@ output:
  [typeid name=N7NewWing10NWRegisterE, macro=T2, demangled=NewWing::NWRegister]
 ```
 
-#Reference
+##Reference
 * <http://stackoverflow.com/questions/3649278/how-can-i-get-the-class-name-from-a-c-object>

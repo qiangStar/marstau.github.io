@@ -160,7 +160,7 @@ The SpriteFrameDrop structure is used to specify the behavior when a sprite fram
 
   ![](/Resources/CocosBuilder_usage_1.png)
 
-#Reference
+##Reference
 
 * <https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md>
 

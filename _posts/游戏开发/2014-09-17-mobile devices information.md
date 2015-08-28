@@ -83,5 +83,5 @@ xxhdpi:144*144px，3倍密度
 * ARMv7: iPhone 3GS, iPhone 4, iPhone 4S, iPod 3G/4G/5G, iPad, iPad 2, iPad 3, iPad Mini
 * ARMv6: iPhone, iPhone 3G, iPod 1G/2G
 
-#Reference
+##Reference
 * <http://stackoverflow.com/questions/22328882/xcode-5-1-no-architectures-to-compile-for-only-active-arch-yes-active-arch-x>

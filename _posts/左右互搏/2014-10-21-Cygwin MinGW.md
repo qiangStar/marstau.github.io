@@ -18,7 +18,7 @@ Mingw is a native software port of the GNU Compiler Collection (GCC) to Microsof
 
 You can run binaries generated with mingw without the cygwin environment, provided that all necessary libraries (DLLs) are present.
 
-#Reference
+##Reference
 
 * <http://stackoverflow.com/questions/771756/what-is-the-difference-between-cygwin-and-mingw>
 * <http://www.mingw.org/>

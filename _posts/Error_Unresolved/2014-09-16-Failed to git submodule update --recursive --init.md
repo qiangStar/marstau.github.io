@@ -19,5 +19,5 @@ Run
     git submodule sync
     git submodule update --init
 
-#Reference
+##Reference
 * <https://github.com/karelia/ConnectionKit/issues/40>

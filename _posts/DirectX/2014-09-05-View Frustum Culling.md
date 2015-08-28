@@ -943,7 +943,7 @@ As usual the source code is provided as a companion for this tutorial, and it co
 Having said this, if you find a bug, or some way to improve this, or even if you create a port to some other operating system, please let me know.
 
  
-#Reference
+##Reference
 * [http://www.lighthouse3d.com/tutorials/view-frustum-culling/](http://www.lighthouse3d.com/tutorials/view-frustum-culling/)
 
 

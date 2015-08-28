@@ -43,6 +43,6 @@ To sum up, my very subjective opinion is that scons is a better idea, but CMake 
 ##KConfig
 ##Other comparisons
 
-#Reference
+##Reference
 
 * <http://www.scons.org/wiki/SconsVsOtherBuildTools>

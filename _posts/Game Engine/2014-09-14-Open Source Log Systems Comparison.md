@@ -45,6 +45,6 @@ Pantheios is thought to be the best performing C++ logging library, as well as c
 more efficient than glog, using C++11
 
 
-#Reference
+##Reference
 * <http://binglongx.wordpress.com/2010/07/23/logging-libraries-in-c/>
 * <http://www.pantheios.org/performance.html#sweet-spot>
