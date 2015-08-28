@@ -34,7 +34,7 @@ ipad分辨率参数：
     iPad 4      9.7英寸    2048x1536像素
     ipad mini   7.9英寸    1024x768像素
 
-###android[更多参考](http://developer.android.com/guide/practices/screens_support.html)
+###android[More](http://developer.android.com/guide/practices/screens_support.html)
 
 
 

@@ -67,13 +67,13 @@ WHERE git
 IF %ERRORLEVEL% NEQ 0 (echo git wasn't found) else (echo git found.)
 ```
 
-**errorlevel**[更多参考](http://www.cnblogs.com/SunShineYPH/archive/2011/12/13/2285570.html)
+**errorlevel**[More](http://www.cnblogs.com/SunShineYPH/archive/2011/12/13/2285570.html)
 
 很多DOS程序在运行结束后会返回一个数字值用来表示程序运行的结果(或者状态)，称为错误码errorlevel或称返回码。
 
 常见的返回码为0、1。通过if errorlevel命令可以判断程序的返回值，根据不同的返回值来决定执行不同的命令。
 
-**函数调用**[更多参考](http://blog.sina.com.cn/s/blog_58f9df5e0101efdv.html)
+**函数调用**[More](http://blog.sina.com.cn/s/blog_58f9df5e0101efdv.html)
 
 使用exit /b或goto :eof来退出调用。使用%0表示函数名，%1、%2等表示参数。
 

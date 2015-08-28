@@ -7,7 +7,7 @@ keywords: CocosBuilder,mac,ios
 description: 
 ---
 
-##**Flatten paths when publishing**[更多参考](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/2.%20Setting%20up%20a%20New%20Project.md)
+##**Flatten paths when publishing**[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/2.%20Setting%20up%20a%20New%20Project.md)
 
 If checked, all file paths in the exported ccbi-files will be flattened (e.g. mySubDirectory/myImage.png will be transformed to myImage.png).
 
@@ -19,7 +19,7 @@ If not checked, you should add your resources as blue folders in Xcode.
 
 z-order is set implicitly by cocosbuilder.结点的位置决定了z-order的相对深度,越往下,则离观察者越近. 
 
-##Don't assign, Doc root var and Owner var[更多参考](http://stackoverflow.com/questions/15107426/what-is-the-difference-between-doc-root-var-and-owner-var-in-cocosbuilder)
+##Don't assign, Doc root var and Owner var[More](http://stackoverflow.com/questions/15107426/what-is-the-difference-between-doc-root-var-and-owner-var-in-cocosbuilder)
 
 * `Don't assign`: Simply means that you are not using the Code Connections.
 * `Doc root var`: means that you are connecting a custom class cocos2d class. This will glue/connect the object in your document (CCB stage/file) to your code. This option is convenient but you must make ensure that root node's controller object is provided.
@@ -40,7 +40,7 @@ else if(memberVarAssignmentType == TargetType::OWNER)
 }
   ```
 
-##CCBPProperties.plist format[更多参考](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md)
+##CCBPProperties.plist format[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md)
 
 ###Required keys
 

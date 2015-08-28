@@ -58,7 +58,7 @@ git config --global user.mail [email]
 ```
 git submodule update --init --recursive
 ```
-####windows下gitignore失效[更多参考](http://blog.lixiphp.com/gitignore-not-flush/#axzz3HvTN3dbF)
+####windows下gitignore失效[More](http://blog.lixiphp.com/gitignore-not-flush/#axzz3HvTN3dbF)
 
 用命令行强制执行此命令,
 eg:
@@ -74,7 +74,7 @@ git add ./filename
 git config core.excludesfile
 ```
 
-####查看远程url[更多参考](http://www.liuyixi.com/2011/09/29/gitchakanyuanchengcangkudizhi/)
+####查看远程url[More](http://www.liuyixi.com/2011/09/29/gitchakanyuanchengcangkudizhi/)
 
 ```
 git remote -v

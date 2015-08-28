@@ -780,7 +780,7 @@ description:
 * printf打印十六进制
 
   %08x表示打印8位十六进制数,不足8位则在前面补0
-* 内存对齐[更多参考](http://blog.csdn.net/musiccow/article/details/5817285)
+* 内存对齐[More](http://blog.csdn.net/musiccow/article/details/5817285)
 
 
 

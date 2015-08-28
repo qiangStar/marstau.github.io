@@ -7,7 +7,7 @@ keywords: linux,mac
 description: 
 ---
 
-##Versions[更多参考](http://en.wikipedia.org/wiki/Microsoft_Visual_Studio#History)
+##Versions[More](http://en.wikipedia.org/wiki/Microsoft_Visual_Studio#History)
 
 ![](/Resources/Microsoft_Visual_Studio_1.jpg)
 

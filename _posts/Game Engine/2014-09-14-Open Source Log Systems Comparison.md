@@ -12,7 +12,7 @@ Apache logging framework for C++ patterned after Apache log4j (for Java).
 比较复杂
 
 
-#**log4cplus**[更多参考](http://log4cplus.sourceforge.net/)
+#**log4cplus**[More](http://log4cplus.sourceforge.net/)
 
 
 Another port of log4j from Java.
@@ -31,7 +31,7 @@ Log for C++ (also similar to Log4j in Java). Not very well documented, but there
 
 Google Logging Library
 
-#**Pantheios**[更多参考](http://stackoverflow.com/questions/439791/what-is-the-most-efficient-thread-safe-c-logger)
+#**Pantheios**[More](http://stackoverflow.com/questions/439791/what-is-the-most-efficient-thread-safe-c-logger)
 
 Pantheios is thought to be the best performing C++ logging library, as well as claiming to be the only one that is 100% type-safe (see this article about a related library explaining why printf()/iostream-based libraries are not type-safe)
 
@@ -39,7 +39,7 @@ Pantheios is thought to be the best performing C++ logging library, as well as c
 ![](/Resources/第三方库之开源日志库_1.png)
 
 
-#**g2log**[更多参考](http://www.codeproject.com/Articles/288827/g-log-An-efficient-asynchronous-logger-using-Cplus#TOC_part_2)
+#**g2log**[More](http://www.codeproject.com/Articles/288827/g-log-An-efficient-asynchronous-logger-using-Cplus#TOC_part_2)
 
 
 more efficient than glog, using C++11
