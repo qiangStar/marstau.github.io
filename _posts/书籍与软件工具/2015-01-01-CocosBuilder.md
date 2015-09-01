@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CocosBuilder usage
+title: CocosBuilder
 category: 书籍与软件工具
 tags: software／tool
 keywords: CocosBuilder,mac,ios

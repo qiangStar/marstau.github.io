@@ -1,6 +1,6 @@
 ---
 layout: post
-title: loadrunner usage
+title: loadrunner
 category: 书籍与软件工具
 tags: software／tool
 keywords: 
