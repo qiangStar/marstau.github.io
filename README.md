@@ -19,8 +19,22 @@ marstau.github.io
 - 单栏布局（first-ui分支）
 
 ----
-* 博客分类(category):游戏技术、数据结构与算法、书籍与软件工具、生活、左右互搏
-* tags:OGRE,Unreal,Unity　3D,cocos2dx,Game　Engine,game　design,DirectX,OpengGL　ES,testing,error／unresolved,Objective　C,lua,php,Python,C＃,C／C＋＋,Assembly,android／java,mac／ios,normal　knowledge,software／tool,data　structure／algorithm,undo,database,心灵鸡汤
+####博客分类(category)
+
+```
+游戏技术、数据结构与算法、书籍与软件工具、生活、左右互搏
+```
+####文件目录
+
+```
+概念编程、
+```
+
+####tags
+
+```
+OGRE,Unreal,Unity　3D,cocos2dx,Game　Engine,game　design,DirectX,OpengGL　ES,testing,error／unresolved,Objective　C,lua,php,Python,C＃,C／C＋＋,Assembly,android／java,mac／ios,normal　knowledge,software／tool,data　structure／algorithm,undo,database,心灵鸡汤,易语言
+```
 
 #Question
 * category和tags不能使用'/'、'空格',特殊字符用全角。
