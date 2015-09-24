@@ -24,6 +24,17 @@ description:
 ```
 
 
+####删除逗号后面所有字符
+
+```
+155973091,chycmaxefgk
+```
+
+```
+,([a-zA-Z0-9]*)
+```
+
+
 ##Reference
 
 * [正则使用](http://blog.sina.com.cn/s/blog_df71a16c0101k0q0.html)
