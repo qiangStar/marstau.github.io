@@ -41,4 +41,6 @@ BL _ZN7_JNIEnv14DeleteLocalRefEP8_jobject
 
 即可删除这个函数。
 
+部分机型不兼容？？
+
 ##Reference
