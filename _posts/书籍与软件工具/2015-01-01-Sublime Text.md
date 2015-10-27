@@ -34,6 +34,12 @@ description:
 ,([a-zA-Z0-9]*)
 ```
 
+####|字符前的所有字符
+
+```
+{云代理}YmEHBgUANzY0Kj8y|.59.102:80{云代理}MzllbmdoVV1TQlVb|7.243.56:8082{云代理}ZTcRQhNEIXEhbiJz|.10.8:80{云代理}NGI9BD8CDjcNKA01|8.60.24:80
+([^\n^|]*)[|]
+```
 
 ##Reference
 
