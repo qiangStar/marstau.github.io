@@ -51,6 +51,25 @@ git config --global user.name [username]
 git config --global user.mail [email]
 ```
 
+####add
+
+```
+git add conf
+```
+
+####push
+
+```
+git diff
+git commit -am 'commit message'
+git push
+```
+
+```
+git push origin master
+```
+
+
 #[oschina](http://git.oschina.net/)
 
 ####不支持的命令
