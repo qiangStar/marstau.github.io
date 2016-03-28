@@ -2,7 +2,7 @@
 layout: post
 title: OpenGL ES hardware support
 category: 游戏技术
-tags: OpengGL　ES
+tags: Game　Engine
 keywords: 
 description: 
 ---
