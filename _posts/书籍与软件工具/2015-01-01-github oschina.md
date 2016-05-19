@@ -125,7 +125,7 @@ git remote -v
 ##顶级目录2
 ```
 
-![/Resources/github_oschina_1.png]()
+![](/Resources/github_oschina_1.png)
 
 从两个`##`开始都会处理为目录
 
