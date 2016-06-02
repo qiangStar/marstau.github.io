@@ -7,13 +7,19 @@ keywords: Sublime
 description: 
 ---
 
-####快捷键
+####快捷键[More](http://www.ithome.com/html/soft/31560.htm)
 
 搜索函数 : ⌘ + R
 
 批量缩进和反缩进:(shift +) tab
 
 跳转到某一行=> ctrl + G
+
+搜索打开项目中的文件: ctrl + P
+
+粘贴并格式化: ctrl + shift + V
+
+打开文件所在目录: ctrl + O
 
 ####正则
 
