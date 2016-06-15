@@ -48,6 +48,18 @@ description:
 ([^\n^|]*)[|]
 ```
 
+####定位文件到左边工程所在位置[More](http://julianhigman.com/blog/2013/07/23/sublime-text-3-keyboard-shortcut-to-reveal-file-in-sidebar/)
+
+首选项->按键绑定 - 用户，下添加如下:
+
+```
+[
+    { "keys": ["ctrl+shift+r"], "command": "reveal_in_side_bar"}
+]
+```
+
+然后在当前文件中输入设置的快捷键即可跟踪工程文件位置。
+
 ##Reference
 
 * [正则使用](http://blog.sina.com.cn/s/blog_df71a16c0101k0q0.html)

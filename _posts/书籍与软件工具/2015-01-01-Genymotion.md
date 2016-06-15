@@ -25,6 +25,9 @@ DHCP Server:
 
 我的本机内网地址是192.168.1.2。
 
+然后模拟器设置上的WiredSSID要连接一下才能正常联网。
+
 ##Reference
 
 * [官网](https://www.genymotion.com/download/)
+
