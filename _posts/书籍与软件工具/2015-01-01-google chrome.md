@@ -20,6 +20,16 @@ chrome://apps/
 C:\Users\mars\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions\
 ```
 
+####mac下google chrome时不时弹出chrome图标 [More](http://zhidao.baidu.com/link?url=7oSB3pd_Z8ANGjGMaXn8OzvEBWhuY_GLyCVKKfCg-PAhsswMHqYHR_LIXp5pqCQbY2eUEvVlgXoRo7Ep10Cx__QwzZMXnZgMEAAvXk2jFxa)
+
+如图:
+
+![](/Resources/google_chrome_1.png)
+
+```
+系统偏好设置－通用－允许在这台Mac和iCloud设备之间使用Handoff， 将这个选项关闭即可
+```
+
 ##Reference
 
 * 
