@@ -24,6 +24,18 @@ description:
 
 ![](/Resources/cocos_studio_4.png)
 
+####使用基础对象无法执行setVisible方法
+
+添加节点
+
+```
+root_node:getChildByName("node"):setVisible(false)
+```
+
+却报错.
+
+将此节点修改为控件图片
+
 ##Reference
 
 * []()
