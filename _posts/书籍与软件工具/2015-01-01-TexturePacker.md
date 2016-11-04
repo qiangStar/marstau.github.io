@@ -8,4 +8,9 @@ description:
 ---
 
 
+anti texturepacker无法解析:
+缺少如下部分
 
+```
+				<key>sourceColorRect</key>				<string>{{463,193},{34,34}}</string>
+```
