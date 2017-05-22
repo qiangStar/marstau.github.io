@@ -1,6 +1,6 @@
 ---
 layout: post
-title: dyld: Library not loaded: @rpath/libfmodL.dylib
+title: dyld Library not loaded rpathlibfmodL
 category: 游戏技术
 tags: error／unresolved
 keywords: mac,ios
