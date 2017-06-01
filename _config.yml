@@ -44,3 +44,5 @@ locals:
   about: 关于
   archive: 归档
   content: 目录
+
+gems: [jekyll-paginate]
