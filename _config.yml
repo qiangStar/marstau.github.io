@@ -1,7 +1,10 @@
 permalink: /:year/:month/:day/:title.html
 paginate: 10
 highlighter: rouge
-markdown: kramdown
+markdown: redcarpet
+
+redcarpet:
+    extensions: [ "hard_wrap","autolink", "tables", "strikethrough", "superscript", "with_toc_data", "highlight", "prettify","no_intra_emphasis"]
 
 # 作者信息
 author: 
