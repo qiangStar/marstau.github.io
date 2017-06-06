@@ -7,13 +7,13 @@ keywords:
 description: 
 ---
 
-##Version
+## Version
 
 ```
 cocos2d-x 3.2
 ```
 
-##MoveTo和MoveBy
+## MoveTo和MoveBy
 
 MoveTo继承MoveBy,使用的是MoveBy的update,reverse.
 
@@ -32,7 +32,7 @@ MoveBy和MoveTo同样的接口,但是前者表示向量运动,后者表示目标
 
 ```
 
-##ScaleBy和ScaleTo
+## ScaleBy和ScaleTo
 
 ScaleBy继承ScaleTo,使用的是ScaleTo的update.
 

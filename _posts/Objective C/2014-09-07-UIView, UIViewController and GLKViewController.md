@@ -6,7 +6,7 @@ tags: Objective　C
 keywords: 
 description: 
 ---
-#UIViewController
+# UIViewController
 UIViewController is the controller of UIView, does following jobs:
 
 * View Management
@@ -16,10 +16,10 @@ UIViewController is the controller of UIView, does following jobs:
 
 UIViewController is a classic MVC pattern.
 
-#GLKViewController
+# GLKViewController
 
 The GLKViewController class provides all of the standard view controller functionality, but additionally implements an OpenGL ES rendering loop. A GLKViewController object works in conjunction with a GLKView object to display frames of animation in the view.
 
-##Reference
+## Reference
 * <https://developer.apple.com/library/ios/documentation/UIKit/Reference/UIViewController_Class/Reference/Reference.html#//apple_ref/occ/cl/UIViewController>
 * <https://developer.apple.com/Library/ios/documentation/GLkit/Reference/GLKViewController_ClassRef/Reference/Reference.html>

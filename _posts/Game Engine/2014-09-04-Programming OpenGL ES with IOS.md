@@ -6,7 +6,7 @@ tags: Game　Engine
 keywords: ios,OpenGL ES,pipeline
 description: 
 ---
-##Add the view controller's view to the window and display.
+## Add the view controller's view to the window and display.
 * Create a full-screen window.
 
         UIScreen *screen = [UIScreen mainScreen];
@@ -67,5 +67,5 @@ description:
 
         [_window makeKeyAndVisible];
 
-#
-##Reference
+# 
+## Reference

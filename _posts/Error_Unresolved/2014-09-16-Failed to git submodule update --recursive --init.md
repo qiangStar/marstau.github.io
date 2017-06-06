@@ -6,18 +6,18 @@ tags: error／unresolved
 keywords: git,xcode
 description: 
 ---
-#Error
+# Error
 
 run git submodule update --init --recursive occurred error
 
 Failed to git submodule update --recursive --init
 
-#Solution
+# Solution
 
 Run
 
     git submodule sync
     git submodule update --init
 
-##Reference
+## Reference
 * <https://github.com/karelia/ConnectionKit/issues/40>

@@ -7,19 +7,19 @@ keywords:
 description: 
 ---
 
-##Error
+## Error
 
 ```
 JAR creation failed. See details for additional information. Class files on classpath not found or not accessible for: 'Server Manager/src/me/Zahach/ServerManager/main.java'
 ```
 
-##Solution
+## Solution
 
 
 工程设置问题,不要勾选外部编译器自动编译
 
 
-####`方法1`
+#### `方法1`
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -112,8 +112,8 @@ JAR creation failed. See details for additional information. Class files on clas
 
 ```
 
-####`方法2`
+#### `方法2`
 
 properties->Builders,仅勾选Android Resource Manager,Android Pre Compiler, Android Package Builder,其余的如ant自动编译,都去掉勾选。
 
-##Reference
+## Reference

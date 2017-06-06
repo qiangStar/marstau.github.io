@@ -8,13 +8,13 @@ description:
 ---	
 
 
-##Error
+## Error
 
 ```
 dyld: Library not loaded: @rpath/libfmodL.dylib
 ```
 
-##Solution
+## Solution
 
 模拟器和真机的库用的不一样
 
@@ -22,4 +22,4 @@ dyld: Library not loaded: @rpath/libfmodL.dylib
 
 真机：libfmodL_iphoneos.a,libfmod_iphoneos.a
 
-##Reference
+## Reference

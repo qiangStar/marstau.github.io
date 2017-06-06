@@ -6,9 +6,9 @@ tags: android／java mac／ios
 keywords: resolution
 description: 
 ---
-##resolution
+## resolution
 
-###ios
+### ios
 
 
 iphone分辨率参数:
@@ -34,7 +34,7 @@ ipad分辨率参数：
     iPad 4      9.7英寸    2048x1536像素
     ipad mini   7.9英寸    1024x768像素
 
-###android[More](http://developer.android.com/guide/practices/screens_support.html)
+### android[More](http://developer.android.com/guide/practices/screens_support.html)
 
 
 
@@ -76,12 +76,12 @@ xhdpi:96*96px,2倍密度
 xxhdpi:144*144px，3倍密度
 
 
-##architectures each device
+## architectures each device
 
 * ARMv8/ARM64: iPhone 5s, iPad Air, Retina iPad Mini
 * ARMv7s: iPhone 5, iPhone 5c, iPad 4
 * ARMv7: iPhone 3GS, iPhone 4, iPhone 4S, iPod 3G/4G/5G, iPad, iPad 2, iPad 3, iPad Mini
 * ARMv6: iPhone, iPhone 3G, iPod 1G/2G
 
-##Reference
+## Reference
 * <http://stackoverflow.com/questions/22328882/xcode-5-1-no-architectures-to-compile-for-only-active-arch-yes-active-arch-x>

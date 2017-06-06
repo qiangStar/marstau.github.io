@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-##Error
+## Error
 
 ```
  could not initialize proxy - no Session
@@ -17,10 +17,10 @@ at org.hibernate.proxy.AbstractLazyInitializer.initialize(AbstractLazyInitialize
 at org.hibernate.proxy.AbstractLazyInitializer.getImplementation(AbstractLazyInitializer.java:111)
 ```
 
-##Solutions
+## Solutions
 
 
 有懒加载情况下， HibernateUtil.closeSession();不要滥用。
 比如一些select语句是不用closesession的，而update和insert等就要用closesession了。
 
-##Reference
+## Reference

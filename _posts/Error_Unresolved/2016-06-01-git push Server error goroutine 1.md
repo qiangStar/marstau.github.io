@@ -8,7 +8,7 @@ description:
 ---	
 
 
-##Error
+## Error
 
 when executing `git push origin master`
 
@@ -60,13 +60,13 @@ GIT_PAGER=cat
 GIT_PREFIX=
 ```
 
-##Solution
+## Solution
 
 ```
 git lfs push origin master
 git push origin master
 ```
 
-##Reference
+## Reference
 
 * 

@@ -21,6 +21,6 @@ self.clipping_node:setAlphaThreshold(0.5)
 top_node:addChild(self.clipping_node)
 ```
 
-##Reference
+## Reference
 
 * <http://shahdza.blog.51cto.com/2410787/1561937/>

@@ -7,9 +7,9 @@ keywords:
 description: 
 ---
 
-##回编译成功后安装失败INSTALL_FAILED_DEXOPT
+## 回编译成功后安装失败INSTALL_FAILED_DEXOPT
 
-##Solutions
+## Solutions
 
 smali文件夹下代码的问题
 
@@ -19,4 +19,4 @@ smali文件夹下代码的问题
 ```
 
 
-##Reference
+## Reference

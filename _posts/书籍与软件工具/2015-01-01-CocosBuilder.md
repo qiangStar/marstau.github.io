@@ -7,7 +7,7 @@ keywords: CocosBuilder,mac,ios
 description: 
 ---
 
-##**Flatten paths when publishing**[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/2.%20Setting%20up%20a%20New%20Project.md)
+## **Flatten paths when publishing**[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/2.%20Setting%20up%20a%20New%20Project.md)
 
 If checked, all file paths in the exported ccbi-files will be flattened (e.g. mySubDirectory/myImage.png will be transformed to myImage.png).
 
@@ -15,11 +15,11 @@ So when the resources are added in Xcode, they need to be added as yellow folder
 
 If not checked, you should add your resources as blue folders in Xcode.
 
-##zorder
+## zorder
 
 z-order is set implicitly by cocosbuilder.结点的位置决定了z-order的相对深度,越往下,则离观察者越近. 
 
-##Don't assign, Doc root var and Owner var[More](http://stackoverflow.com/questions/15107426/what-is-the-difference-between-doc-root-var-and-owner-var-in-cocosbuilder)
+## Don't assign, Doc root var and Owner var[More](http://stackoverflow.com/questions/15107426/what-is-the-difference-between-doc-root-var-and-owner-var-in-cocosbuilder)
 
 * `Don't assign`: Simply means that you are not using the Code Connections.
 * `Doc root var`: means that you are connecting a custom class cocos2d class. This will glue/connect the object in your document (CCB stage/file) to your code. This option is convenient but you must make ensure that root node's controller object is provided.
@@ -40,9 +40,9 @@ else if(memberVarAssignmentType == TargetType::OWNER)
 }
   ```
 
-##CCBPProperties.plist format[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md)
+## CCBPProperties.plist format[More](https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md)
 
-###Required keys
+### Required keys
 
 
 <table>
@@ -70,7 +70,7 @@ else if(memberVarAssignmentType == TargetType::OWNER)
     
     
 </table>
-### Optional keys
+###  Optional keys
 
 <table>
     <tr>
@@ -90,7 +90,7 @@ else if(memberVarAssignmentType == TargetType::OWNER)
     </tr>
 </table>
 
-###PlugInProperty
+### PlugInProperty
 
 A PlugInProperty defines how a property should be displayed in CocosBuilder and how it should be loaded into an app by CCBReader. It is a dictionary with the following keys. Which property type:s are supported and how they are *serialized* (for the default value) is defined in the Property Types document.
 
@@ -138,7 +138,7 @@ A PlugInProperty defines how a property should be displayed in CocosBuilder and 
     </tr>
 </table>
 
-###SpriteFrameDrop
+### SpriteFrameDrop
 
 The SpriteFrameDrop structure is used to specify the behavior when a sprite frame is dropped onto a scene from the assets palette.(将project视图下的图片(.png)拖放到timeline中时,此节点自动生成为CCSprite类型)
 
@@ -160,7 +160,7 @@ The SpriteFrameDrop structure is used to specify the behavior when a sprite fram
 
   ![](/Resources/CocosBuilder_usage_1.png)
 
-##Reference
+## Reference
 
 * <https://github.com/cocos2d/CocosBuilder/blob/master/Documentation/X1.%20Creating%20Node%20Plug-ins.md>
 

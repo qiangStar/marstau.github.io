@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-##`安装`
+## `安装`
 
 官网安装without VirtualBox的包,手动下载低版本的virtual box，否则连不上网，如Genymotion V2.6.0,VirtualBox V4.3.4
 
@@ -27,7 +27,7 @@ DHCP Server:
 
 然后模拟器设置上的WiredSSID要连接一下才能正常联网。
 
-##Reference
+## Reference
 
 * [官网](https://www.genymotion.com/download/)
 

@@ -7,7 +7,7 @@ keywords: github
 description: 
 ---
 
-##Error
+## Error
 
 内容太大clone不下来。提示：
 
@@ -16,7 +16,7 @@ efrror: RPC failed; result=18, HTTP code = 200
 ```
 
 
-##Solutions
+## Solutions
 
 调整postBuffer
 
@@ -37,6 +37,6 @@ git clone git@git.oschina.net:marstau/test.git
 git clone https://git.oschina.net/marstau/test.git
 ```
 
-##Reference
+## Reference
 
-#<http://stackoverflow.com/questions/17683295/git-bash-error-rpc-failed-result-18-htp-code-200b-1kib-s>
+# <http://stackoverflow.com/questions/17683295/git-bash-error-rpc-failed-result-18-htp-code-200b-1kib-s>

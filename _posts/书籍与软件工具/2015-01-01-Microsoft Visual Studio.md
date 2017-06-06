@@ -7,25 +7,25 @@ keywords: linux,mac
 description: 
 ---
 
-##Versions[More](http://en.wikipedia.org/wiki/Microsoft_Visual_Studio#History)
+## Versions[More](http://en.wikipedia.org/wiki/Microsoft_Visual_Studio#History)
 
 ![](/Resources/Microsoft_Visual_Studio_1.jpg)
 
 
-#Visual Studio 2010
+# Visual Studio 2010
 
-##添加DLL库工程
+## 添加DLL库工程
 eg:
 
 引用simpledll项目。
 
 右键单击usesimpledll项目，选择Properties->Common Properties->Framework and References。点击Add New Reference，选择simpledll项目，单击OK。
 
-##去除UNICODE
+## 去除UNICODE
 
   项目-\>配置属性-\>C/C++-\>预处理器-\>预处理器定义-\>去掉继承选项  
 
-##嵌入汇编模块前基本配置
+## 嵌入汇编模块前基本配置
 
 1. Create an empty project in Visual C++
 2. right-click project in solutionexplorer, Build customizations, tick "masm", Then tap the right of mouse, select Add Now, select C++ File(.cpp), enter the sourcefile name with .asm as extend file name.
@@ -44,7 +44,7 @@ programs to write output to a textconsole (Command) window. This is the window y
 Windows.
 6. Click the OK button to close theProject Property Pages window.
 
-##命令行编译
+## 命令行编译
 
 VS做的很智能，一个F7就完成了预处理、编译、链接的所有工作。但是当工程比较大，使用的文件模块比较多， 一旦出现编译错误定位问题时就比较困难。因此，有时候需要对每个模块单独编译，就像Linux下编写的 makefile文件一下，分别编译每一个.o目标文件然后再链接成为一个.exe可执行程序。总结下在VS下使用命令行分别编译程序的方法。
 
@@ -83,16 +83,16 @@ caution:如果输入cl命令出现如下所示错误(cl.exe
 
 (6) 只输出 .o 目标文件命令：cl /FoA /c A.cpp，然后会生成 A.obj 目标文件，类似Linux下的 .o 文件。注 意这里应该带上 /c 选项，原因见(2)，即默认情况下，cl会自动对编译好的目标文件进行链接，如果此时，所 编译的目标文件引用了其他目标文件中的符号的话，就会出现链接错误。 
 
-##逆向工程
+## 逆向工程
 
 体系结构->生成依赖关系图->自定义
 但VS2010默认只支持C#和Java的逆向工程,所以当逆向C++的时候会报错[当前解决方案不包含要进行反向工程的程序集],所以需安装[Microsoft Visual Studio 2010 可视化和建模功能包(visualization modeling feature pack).
 
-##空格显示绿点
+## 空格显示绿点
 
 Ctrl + r,然后Ctrl + w,空格就会以绿点显示。
 
-##为Visual Assist设置快捷键
+## 为Visual Assist设置快捷键
 
 
 ** // Ctrl + B :** **Create Implementation** ( in <span
@@ -188,14 +188,14 @@ style="word-spacing:0px;font:14px/26px Arial;text-transform:none;color:#333333;t
 
 
 
-#Visual Studio 2008
+# Visual Studio 2008
 
-##程序数据库管理器不匹配；请检查安装
+## 程序数据库管理器不匹配；请检查安装
 
 之前用了VS2008命令行编译，复制了mspdb80.dll文件过来，删除即可，目录:D:\\Program Files\\Microsoft Visual Studio 9.0\\VC\\bin。
 
 
-##Reference
+## Reference
 * <http://msdn.microsoft.com/zh-cn/library/ff636699.aspx>
 * <http://blog.csdn.net/tszhao/article/details/6753276>
 

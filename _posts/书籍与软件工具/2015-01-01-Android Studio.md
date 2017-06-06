@@ -7,11 +7,11 @@ keywords: anroid,game
 description: 
 ---
 
-####删除项目[More](http://jingyan.baidu.com/article/c74d6000813b2b0f6b595d48.html)
+#### 删除项目[More](http://jingyan.baidu.com/article/c74d6000813b2b0f6b595d48.html)
 
 ```
 File->Project Structure
 ```
 
-##Reference
+## Reference
 

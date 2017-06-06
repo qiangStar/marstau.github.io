@@ -8,7 +8,7 @@ description:
 ---	
 
 
-##Error
+## Error
 
 ant编译时提示
 
@@ -22,10 +22,10 @@ BUILD FAILED
 ```
 
 
-##Solution[More](https://stackoverflow.com/questions/19746319/how-to-solve-invalid-resource-directory-name-resource-crunch/22057171#22057171)
+## Solution[More](https://stackoverflow.com/questions/19746319/how-to-solve-invalid-resource-directory-name-resource-crunch/22057171#22057171)
 
 ```
 删除整个bin目录
 ```
 
-##Reference
+## Reference

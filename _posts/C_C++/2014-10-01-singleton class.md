@@ -8,12 +8,12 @@ description:
 ---
 
 I'll describe my singleton class, a template singleton. Explain some details.
-##SingletonProtocol.h
+## SingletonProtocol.h
 
 ```
-#pragma once
-#include "STDHeader.h"
-#include "g3log.hpp"
+# pragma once
+# include "STDHeader.h"
+# include "g3log.hpp"
 
 template<typename SingletonClass>
 class SingletonProtocol{
@@ -57,10 +57,10 @@ private:
     
 };
 
-#include "SingletonProtocol.hpp"
+# include "SingletonProtocol.hpp"
 ```
 
-##SingletonProtocol.hpp
+## SingletonProtocol.hpp
 
 ```
 template<typename T>
@@ -70,7 +70,7 @@ template<typename T>
 T *SingletonProtocol<T>::_Instance;
 ```
 
-##Usage
+## Usage
 
 ```
 class ResourceManager :

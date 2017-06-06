@@ -67,7 +67,7 @@ class="Apple-converted-space"> </span>](http://www.toymaker.info/Games/html/eff
 are referenced in the x file and it does not do hardware skinning (it
 uses software skinning).
 
-### Contents {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  Contents {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 -   
 
@@ -183,7 +183,7 @@ an article on Gamedev about this (see<span
 class="Apple-converted-space"> </span>[further
 reading](http://www.toymaker.info/Games/html/load_x_hierarchy.html#FutherRead)).
 
-### The D3DXLoadMeshHierarchyFromX function {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  The D3DXLoadMeshHierarchyFromX function {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 <span class="Code"
 style="FONT-FAMILY: Fixedsys, monospace; COLOR: #000066; FONT-SIZE: 12pt; FONT-WEIGHT: normal">HRESULT
@@ -335,7 +335,7 @@ pMeshContainerToFree );\
 The implementation of each of these functions is described below and can
 be seen, in full, in the sample code.
 
-### CreateFrame {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  CreateFrame {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 This function is called during processing of the .x file by the<span
 class="Apple-converted-space"> </span><span class="Code"
@@ -431,7 +431,7 @@ class="Code"
 style="FONT-FAMILY: Fixedsys, monospace; COLOR: #000066; FONT-SIZE: 12pt; FONT-WEIGHT: normal">D3DXFrameCalculateBoundingSphere</span><span
 class="Apple-converted-space"> </span>etc.
 
-### CreateMeshContainer {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  CreateMeshContainer {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 This function is called during processing of the x file by the<span
 class="Apple-converted-space"> </span><span class="Code"
@@ -639,7 +639,7 @@ described in the section on<span
 class="Apple-converted-space"> </span>[skinning](http://www.toymaker.info/Games/html/load_x_hierarchy.html#Skinning)<span
 class="Apple-converted-space"> </span>below.
 
-### DestroyFrame and DestroyMeshContainer {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  DestroyFrame and DestroyMeshContainer {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 These functions should deallocate the memory we created in the above two
 functions. They are invoked when we destroy the frame hierarchy. This is
@@ -677,7 +677,7 @@ class="Apple-converted-space"> </span>pointer).
 I will look first at how we can render this hierarchy without animation
 or skinning. I will talk about animation and skinning later.
 
-### Rendering the Hierarchy {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  Rendering the Hierarchy {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 To render the model with a hierarchy involves traversing the hierarchy
 maintaining matrix and rendering mesh as we encounter them. At regular
@@ -800,7 +800,7 @@ style="TEXT-DECORATION: underline">RegisterAnimationSet
 Skinning {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; BACKGROUND-COLOR: #b7b4df; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 16pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 --------
 
-### Introduction to Skinning {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  Introduction to Skinning {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 Skinning takes data in a mesh-skeleton hierarchy and applies geometry
 blending to transform the mesh vertices. Skinning uses a set of
@@ -824,7 +824,7 @@ matrix to the vertices to create a number of differently positioned
 vertices and then interpolates between them based on the blending
 weight.
 
-### Skinned Mesh Matrices {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
+###  Skinned Mesh Matrices {style="LINE-HEIGHT: normal; WIDOWS: 2; TEXT-TRANSFORM: none; FONT-VARIANT: normal; FONT-STYLE: normal; TEXT-INDENT: 0px; FONT-FAMILY: 'Times New Roman', Times, serif; WHITE-SPACE: normal; ORPHANS: 2; LETTER-SPACING: normal; COLOR: #000000; FONT-SIZE: 12pt; WORD-SPACING: 0px; -webkit-text-size-adjust: auto; -webkit-text-stroke-width: 0px"}
 
 The skeleton is a hierarchical set of bones. Each bone has a matrix
 which translates and rotates that bone relative to its parent (this is

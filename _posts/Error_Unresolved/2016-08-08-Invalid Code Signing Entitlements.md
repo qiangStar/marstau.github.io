@@ -8,7 +8,7 @@ description:
 ---	
 
 
-##Error
+## Error
 
 app store发布应用时提示
 
@@ -17,10 +17,10 @@ ERROR ITMS-90164: "Invalid Code Signing Entitlements. The entitlements in your a
 ```
 
 
-##Solution[More](http://my.oschina.net/u/1245365/blog/205770)
+## Solution[More](http://my.oschina.net/u/1245365/blog/205770)
 
 ```
 删除*.entitlements文件
 ```
 
-##Reference
+## Reference

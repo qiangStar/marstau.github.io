@@ -7,7 +7,7 @@ keywords: cocos2dx
 description: 
 ---
 
-####锚点使用错觉
+#### 锚点使用错觉
 锚点设为(0.5,0.5)
 
 ![](/Resources/cocos_studio_1.png)
@@ -24,7 +24,7 @@ description:
 
 ![](/Resources/cocos_studio_4.png)
 
-####使用基础对象无法执行setVisible方法
+#### 使用基础对象无法执行setVisible方法
 
 添加节点
 
@@ -36,6 +36,6 @@ root_node:getChildByName("node"):setVisible(false)
 
 将此节点修改为控件图片
 
-##Reference
+## Reference
 
 * []()

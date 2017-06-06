@@ -20,7 +20,7 @@ description:
 [菲利克斯猫(Felix.mao)的IT技术专栏](http://blog.csdn.net/maojudong)
 -------------------------------------------------------------------
 
-### 喜欢专研IT技术\`IT项目管理
+###  喜欢专研IT技术\`IT项目管理
 
 <div class="clear">
 
@@ -391,7 +391,7 @@ id="d-top-a">[![TOP](http://static.blog.csdn.net/images/top.png)](# "回到顶�
 
 <div class="tag_list">
 
-##### [核心技术类目](http://www.csdn.net/tag/)
+#####  [核心技术类目](http://www.csdn.net/tag/)
 
 <div class="classify">
 

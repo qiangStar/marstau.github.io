@@ -6,7 +6,7 @@ tags: error／unresolved
 keywords: mac,ios,xcode,symbol
 description: 
 ---
-#Error
+# Error
 Undefined symbols for architecture armv7:
 
   "_curl_multi_perform", referenced from:
@@ -85,7 +85,7 @@ clang: error: linker command failed with exit code 1 (use -v to see invocation)
 
 
 
-#Solution
+# Solution
 
 不论如何设置architectures都没用,发现原来是.xcodeproj/project.pbxproj多了如下内容：
 

@@ -196,7 +196,7 @@ The Methods: setCamInternals
 
 This function takes exactly the same parameters as the function gluPerspective. Each time the perspective definitions change, for instance when a window is resized, this function should be called as well.
 
-#define ANG2RAD 3.14159265358979323846/180.0
+# define ANG2RAD 3.14159265358979323846/180.0
 
 void FrustumG::setCamInternals(float angle, float ratio, float nearD, float farD) {
 
@@ -538,7 +538,7 @@ Far Plane
 Clip Space Approach – Implementation Details
 The following function, from class FrustumG, performs the plane extraction as described above, assuming that the matriz A=M*P is given as a parameter:
 
-#define m(row,col)  m[col*4+row-5]
+# define m(row,col)  m[col*4+row-5]
 
 void FrustumG::setFrustum(float *m) {
 
@@ -574,7 +574,7 @@ void FrustumG::setFrustum(float *m) {
 				-m(1,4) + m(4,4));
 }
 
-#undef M
+# undef M
 The function setCoefficients from the class Plane is as follows:
 
 void Plane::setCoefficients(float a, float b, float c, float d) {
@@ -713,7 +713,7 @@ The Methods: setCamInternals
 
 This function takes exactly the same parameters as the function gluPerspective. Each time the perspective definitions change, for instance when a window is resized, this function should be called as well.
 
-#define ANG2RAD 3.14159265358979323846/180.0
+# define ANG2RAD 3.14159265358979323846/180.0
 
 void FrustumR::setCamInternals(float angle, float ratio, float nearD, float farD) {
 
@@ -870,7 +870,7 @@ The Methods: setCamInternals
 
 This function is similar to the one presented before, adding only the computation of sphere factors.
 
-#define HALF_ANG2RAD 3.14159265358979323846/360.0
+# define HALF_ANG2RAD 3.14159265358979323846/360.0
 
 void FrustumR::setCamInternals(float angle, float ratio, float nearD, float farD) {
 
@@ -943,7 +943,7 @@ As usual the source code is provided as a companion for this tutorial, and it co
 Having said this, if you find a bug, or some way to improve this, or even if you create a port to some other operating system, please let me know.
 
  
-##Reference
+## Reference
 * [http://www.lighthouse3d.com/tutorials/view-frustum-culling/](http://www.lighthouse3d.com/tutorials/view-frustum-culling/)
 
 

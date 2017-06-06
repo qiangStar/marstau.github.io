@@ -7,7 +7,7 @@ keywords:
 description: 
 ---
 
-##Error
+## Error
 
 ```
 JNI ERROR (app bug): attempt to use stale local reference 0x4200001d (should be 0x4210001d)
@@ -16,7 +16,7 @@ JNI ERROR (app bug): attempt to use stale local reference 0x4200001d (should be 
 ```
 
 
-##Solutions[More](http://blog.k-res.net/archives/1525.html)
+## Solutions[More](http://blog.k-res.net/archives/1525.html)
 
 smali文件夹下代码的问题
 
@@ -43,4 +43,4 @@ BL _ZN7_JNIEnv14DeleteLocalRefEP8_jobject
 
 部分机型不兼容？？
 
-##Reference
+## Reference
