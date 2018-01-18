@@ -13,5 +13,42 @@ description:
 File->Project Structure
 ```
 
+
+## Errors
+
+
+#### Install repository and sync project[More](https://stackoverflow.com/questions/43495549/cannot-install-repository-and-sync-project-in-android-studio)
+
+```
+Install repository and sync project
+Show in File
+Show in Project Structure dialog
+```
+
+```
+allprojects {
+    repositories {
+        jcenter()
+        maven {
+            url "https://maven.google.com"
+        }
+   }
+}
+```
+
+
+#### 编译报错
+
+```
+No resource identifier found for attribute
+```
+
+试试改成如下
+
+```
+compile 'com.android.support:appcompat-v7:26+'
+compile 'com.android.support:percent:26.0.0'
+compile 'com.android.support.constraint:constraint-layout:1.0.2'
+```
 ## Reference
 
