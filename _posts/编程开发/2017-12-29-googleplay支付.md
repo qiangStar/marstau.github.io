@@ -16,7 +16,8 @@ description:
 
 #### 无法购买您要买的商品？
 
-上传到到alpha版或beta版后，点发布，三个小时候生效，要封闭测试，而不是开放测试。
+1. 上传到到alpha版或beta版后，点发布，三个小时候生效，要封闭测试，而不是开放测试。
+2. 测试账号要重新点加入测试链接。
 
 #### `Can't start async operation (launchPurchaseFlow) because another async operation(launchPurchaseFlow) is in progress`
 
