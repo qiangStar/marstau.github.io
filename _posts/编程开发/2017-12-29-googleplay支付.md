@@ -42,6 +42,12 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 
 ``` 
 
+#### facebook密钥散列读取
+
+```
+keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore | openssl sha1 -binary | openssl base64
+```
+
 ## Reference
 
 * <https://developer.android.com/google/play/billing/billing_integrate.html>
