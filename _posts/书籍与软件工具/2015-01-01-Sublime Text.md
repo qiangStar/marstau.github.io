@@ -89,6 +89,12 @@ JsFormat 的功能就是可以将一些凌乱的 JavaScript 代码重新排版�
 按下 Ctrl+Shift+P 调用命令面板，你会发现已经多了一项命令叫做
 “Format: Javascript”，快捷键是“CTRL+ALT+F”
 
+#### 安装Ethereum插件
+
+```
+Ctrl + Shift + P, 输入Install, 然后选择Ethereum
+```
+
 ## Reference
 
 * [正则使用](http://blog.sina.com.cn/s/blog_df71a16c0101k0q0.html)
