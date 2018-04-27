@@ -21,6 +21,9 @@ psql postgres # 默认系统用户名,密码空 postgres数据库.
 select * from current_user;
 select user;
 \q # 退出
+
+select * from pg_tables; #得到当前db中所有表的信息
+select * from pg_tables where schemaname='public'; # 得到所有用户自定义表
 ```
 
 #### Postgres Connection url[More](https://stackoverflow.com/questions/3582552/postgres-connection-url)
