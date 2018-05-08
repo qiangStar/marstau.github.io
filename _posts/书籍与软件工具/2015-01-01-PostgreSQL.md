@@ -24,6 +24,7 @@ select user;
 
 select * from pg_tables; #得到当前db中所有表的信息
 select * from pg_tables where schemaname='public'; # 得到所有用户自定义表
+ \d tablename; # 查看表结构
 ```
 
 #### Postgres Connection url[More](https://stackoverflow.com/questions/3582552/postgres-connection-url)
@@ -40,7 +41,7 @@ postgresql://localhost:5433
 postgresql://localhost/mydb
 postgresql://user@localhost
 postgresql://user:secret@localhost
-postgresql://other@localhost/otherdb?connect_timeout=10&application_name=myapp
+postgresql://other@localhost/other`b?connect_timeout=10&application_name=myapp
 postgresql://localhost/mydb?user=other&password=secret
 ```
 
