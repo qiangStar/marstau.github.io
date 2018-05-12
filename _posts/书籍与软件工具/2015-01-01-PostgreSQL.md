@@ -20,12 +20,20 @@ psql postgres # 默认系统用户名,密码空 postgres数据库.
 ```
 select * from current_user;
 select user;
-\q # 退出
 
 select * from pg_tables; #得到当前db中所有表的信息
 select * from pg_tables where schemaname='public'; # 得到所有用户自定义表
  \d tablename; # 查看表结构
+
+psql -h localhost  -d databaseName  -U username -f  filename # 导入数据库文件
+\l #列举数据库
+\c databaseName #选择数据库
+\dt # 查看该库中所有表
+\d 表名 # 查看某个库中的某个表结构
+\encoding # 显示字符集
+\q # 退出
 ```
+
 
 #### Postgres Connection url[More](https://stackoverflow.com/questions/3582552/postgres-connection-url)
 
