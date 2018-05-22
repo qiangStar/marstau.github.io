@@ -95,6 +95,11 @@ JsFormat 的功能就是可以将一些凌乱的 JavaScript 代码重新排版�
 Ctrl + Shift + P, 输入Install, 然后选择Ethereum
 ```
 
+
+#### 搜索去除部分目录
+
+全局搜索的Where中输入诸如:`-web/node_modules,-web/dist`语句
+
 ## Reference
 
 * [正则使用](http://blog.sina.com.cn/s/blog_df71a16c0101k0q0.html)
