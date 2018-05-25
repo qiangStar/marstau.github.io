@@ -1,8 +1,6 @@
 marstau.github.io
 =======================
 
-地址：<http://marstau.githis.com>
-
 ### 安装说明
 
 1. fork库到自己的github
