@@ -37,7 +37,7 @@ disqus:
   shortname: mars
 
 # 主题设置，自动激活某个标签
-active: 游戏技术
+active: 编程开发
 
 # 显示分类
 cates: 
