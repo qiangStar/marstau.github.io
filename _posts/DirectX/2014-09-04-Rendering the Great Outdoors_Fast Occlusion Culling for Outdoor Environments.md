@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Rendering the Great Outdoors/Fast Occlusion Culling for Outdoor Environments
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

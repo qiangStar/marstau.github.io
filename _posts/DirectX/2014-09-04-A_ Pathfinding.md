@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A* Pathfinding
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

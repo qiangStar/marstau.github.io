@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The SSL certificate is invalid
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: cargo
 description: 

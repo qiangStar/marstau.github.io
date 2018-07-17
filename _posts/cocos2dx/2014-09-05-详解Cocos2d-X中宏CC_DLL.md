@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 详解Cocos2d-X中宏CC_DLL
-category: 游戏技术
+category: 编程开发
 tags: cocos2dx
 keywords:
 description: 

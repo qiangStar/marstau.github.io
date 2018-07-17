@@ -1,7 +1,7 @@
 ---
 layout: post
 title: D3DXVec3TransformCoord [projecting the result back into w=1]
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

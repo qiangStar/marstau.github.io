@@ -1,7 +1,7 @@
 ---
 layout: post
 title: not a valid ELF
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: cocos2dx
 description: 

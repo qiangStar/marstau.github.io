@@ -1,7 +1,7 @@
 ---
 layout: post
 title: provider： 共享内存提供程序, error： 0 管道的另一端上无任何进程 and sa登陆失败 错误：18456
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: 
 description: 

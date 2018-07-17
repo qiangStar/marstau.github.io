@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Android NDK 官方下载地址
-category: 游戏技术
+category: 编程开发
 tags: android／java
 keywords: 
 description: 

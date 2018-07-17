@@ -1,7 +1,7 @@
 ---
 layout: post
 title: \@synthesize和\@dynamic
-category: 游戏技术
+category: 编程开发
 tags: Objective　C
 keywords: 
 description: 

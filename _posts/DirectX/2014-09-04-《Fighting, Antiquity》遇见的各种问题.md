@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 《Fighting, Antiquity》遇见的各种问题
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

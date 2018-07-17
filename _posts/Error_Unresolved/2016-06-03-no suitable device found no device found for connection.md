@@ -1,7 +1,7 @@
 ---
 layout: post
 title: no suitable device found no device found for connection
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: linux
 description: 

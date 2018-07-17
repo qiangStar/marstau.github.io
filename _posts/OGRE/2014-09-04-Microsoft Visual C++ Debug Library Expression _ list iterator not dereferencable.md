@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Microsoft Visual C++ Debug Library Expression / list iterator not dereferencable
-category: 游戏技术
+category: 编程开发
 tags: OGRE
 keywords: 
 description: 

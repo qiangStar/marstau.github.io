@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mobile devices information
-category: 游戏技术
+category: 编程开发
 tags: android／java mac／ios
 keywords: resolution
 description: 

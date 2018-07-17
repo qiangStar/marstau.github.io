@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Objective-C基本语法
-category: 游戏技术
+category: 编程开发
 tags: Objective　C
 keywords: 
 description: 

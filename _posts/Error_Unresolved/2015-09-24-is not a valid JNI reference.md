@@ -1,7 +1,7 @@
 ---
 layout: post
 title: is not a valid JNI reference
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: 
 description: 

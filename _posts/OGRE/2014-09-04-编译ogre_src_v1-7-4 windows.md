@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 编译ogre_src_v1-7-4 windows
-category: 游戏技术
+category: 编程开发
 tags: OGRE
 keywords: 
 description: 

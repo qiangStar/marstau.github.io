@@ -1,7 +1,7 @@
 ---
 layout: post
 title: libpng error  CgBI unhandled critical chunk
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: cocos2dx,ios,xcode,symbol
 description: 

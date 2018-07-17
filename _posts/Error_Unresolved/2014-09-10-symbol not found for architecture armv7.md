@@ -1,7 +1,7 @@
 ---
 layout: post
 title: symbol not found for architecture armv7
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: mac,ios,xcode,symbol
 description: 

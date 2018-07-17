@@ -1,7 +1,7 @@
 ---
 layout: post
 title: send TEXCOORD from DirectX9.0 to HLSL
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

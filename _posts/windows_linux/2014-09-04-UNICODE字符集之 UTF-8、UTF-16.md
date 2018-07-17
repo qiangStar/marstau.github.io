@@ -1,7 +1,7 @@
 ---
 layout: post
 title: UNICODE字符集之 UTF-8、UTF-16
-category: 游戏技术
+category: 编程开发
 tags: normal　knowledge
 keywords: 
 description: 

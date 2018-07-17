@@ -1,7 +1,7 @@
 ---
 layout: post
 title: general error c101008a_ Failed to save the updated manifest to the
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: 
 description: 

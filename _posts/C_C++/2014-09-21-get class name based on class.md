@@ -1,7 +1,7 @@
 ---
 layout: post
 title: get class name based on class
-category: 游戏技术
+category: 编程开发
 tags: Ｃ／Ｃ＋＋
 keywords: 
 description: 

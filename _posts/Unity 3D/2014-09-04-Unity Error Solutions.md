@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Unity Error Solutions
-category: 游戏技术
+category: 编程开发
 tags: Unity　3D
 keywords: 
 description: 

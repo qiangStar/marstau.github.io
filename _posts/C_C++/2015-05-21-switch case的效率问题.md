@@ -1,7 +1,7 @@
 ---
 layout: post
 title: switch case的效率问题
-category: 游戏技术
+category: 编程开发
 tags: Ｃ／Ｃ＋＋
 keywords: variadic templates
 description: 

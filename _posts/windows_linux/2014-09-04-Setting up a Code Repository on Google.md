@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up a Code Repository on Google
-category: 游戏技术
+category: 编程开发
 tags: normal　knowledge
 keywords: 
 description: 

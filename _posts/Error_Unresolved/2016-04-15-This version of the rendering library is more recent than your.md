@@ -1,7 +1,7 @@
 ---
 layout: post
 title: This version of the rendering library is more recent than your
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: 
 description: 

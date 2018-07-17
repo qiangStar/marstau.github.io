@@ -1,7 +1,7 @@
 ---
 layout: post
 title: X File Hierarchy Loading
-category: 游戏技术
+category: 编程开发
 tags: DirectX
 keywords: 
 description: 

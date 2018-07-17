@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My Naming Convention
-category: 游戏技术
+category: 编程开发
 tags: normal　knowledge
 keywords: 
 description: 

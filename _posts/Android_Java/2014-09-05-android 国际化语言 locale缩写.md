@@ -1,7 +1,7 @@
 ---
 layout: post
 title: android 国际化语言 locale缩写
-category: 游戏技术
+category: 编程开发
 tags: android／java
 keywords: 
 description: 

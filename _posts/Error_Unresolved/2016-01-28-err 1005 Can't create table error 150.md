@@ -1,7 +1,7 @@
 ---
 layout: post
 title: err 1005 Can't create table error 150
-category: 游戏技术
+category: 编程开发
 tags: error／unresolved
 keywords: 
 description: 

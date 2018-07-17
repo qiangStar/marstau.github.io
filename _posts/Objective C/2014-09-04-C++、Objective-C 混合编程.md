@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C++、Objective-C 混合编程
-category: 游戏技术
+category: 编程开发
 tags: Objective　C
 keywords: 
 description: 

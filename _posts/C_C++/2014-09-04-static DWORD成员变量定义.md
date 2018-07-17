@@ -1,7 +1,7 @@
 ---
 layout: post
 title: static DWORD成员变量定义
-category: 游戏技术
+category: 编程开发
 tags: Ｃ／Ｃ＋＋
 keywords: windows, DWORD
 description: 

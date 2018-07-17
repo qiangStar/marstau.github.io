@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OgreSDK_vc10_v1-7-4第一次编译程序运行crash
-category: 游戏技术
+category: 编程开发
 tags: OGRE
 keywords: 
 description: 

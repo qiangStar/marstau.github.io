@@ -1,7 +1,7 @@
 ---
 layout: post
 title: JAR creation failed. See details for additional information
-category: 游戏技术
+category: 编程开发
 tags: android／java
 keywords: 
 description: 
