@@ -2,7 +2,7 @@
 layout: post
 title: googleplay支付
 category: 编程开发
-tags: googleplay, pay
+tags: googleplay pay
 keywords: 
 description: 
 ---
