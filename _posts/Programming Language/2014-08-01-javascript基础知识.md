@@ -7,11 +7,11 @@ keywords:
 description: 
 ---
 
-#### 暂停
+## 基础语法
 
 
 ```
-
+JSON.stringify(result); // object转为string
 ```
 
 ## Reference
