@@ -2,7 +2,7 @@
 layout: post
 title: cocos2dx lua项目转html5项目
 category: 编程开发
-tags: html5, lua
+tags: html5 lua
 keywords: 
 description: 
 ---
