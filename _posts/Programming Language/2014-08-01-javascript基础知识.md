@@ -53,11 +53,77 @@ console.log("jsonStr2=", MyJson["networks"]["5777"]["address"]);
 
 #### `...`[More](https://blog.csdn.net/qq_30100043/article/details/53391308)
 
-### 页面加载效果fakeLoader[More](http://www.jq22.com/jquery-info2082)
+#### 页面加载效果fakeLoader[More](http://www.jq22.com/jquery-info2082)
 
 扩展运算符
 
 将一个数组转为用逗号分隔的参数序列。
+
+#### 复制内容到剪切板[More](https://blog.csdn.net/github_36091081/article/details/77508710)
+
+因为exeCommand()可以操作系统剪切板，有可能被恶意利用。所以你不能用JS“直接”调用execCommand('copy')，而需要放到某一个有用户出发的事件响应函数内.[More](https://segmentfault.com/q/1010000005783830)
+
+```
+<script type="text/javascript">
+function copyUrl2()
+    {
+        var Url2=document.getElementById("biao1").innerText;
+        var oInput = document.createElement('input');
+        oInput.value = Url2;
+        document.body.appendChild(oInput);
+        oInput.select(); // 选择对象
+        document.execCommand("Copy"); // 执行浏览器复制命令
+        oInput.className = 'oInput';
+        oInput.style.display='none';
+        alert('复制成功');
+    }
+</script>
+<div cols="20" id="biao1">12345678</div>
+<input type="button" onClick="copyUrl2()" value="点击复制代码" />
+```
+
+但不支持safari浏览器。
+
+所以使用[clipboard.js](https://github.com/zenorocha/clipboard.js)
+
+
+```javascript
+<div class="buttonClass" data-clipboard-text="
+line1
+line2
+"  data-clipboard-action="copy" id="bs">确定</div>
+<script>
+$('#bs').click(function () {
+  var roomid = 1;
+  var site = 'baidu.com';
+  var recommenCode = 'sdkc';
+
+  var clipboard = new ClipboardJS("#bs");
+  clipboard.on("success",function (e) {
+    console.info('Action:', e.action);
+    console.info('Text:', e.text);
+    console.info('Trigger:', e.trigger);
+  });
+  clipboard.on("error",function (e) {
+    console.error('Action:', e.action);
+    console.error('Trigger:', e.trigger);
+    console.info(e);
+  });
+});
+</script>
+```
+
+If you want to dynamically set a text, you'll return a String.[More](https://clipboardjs.com/)
+
+```
+<script>
+new ClipboardJS('.btn', {
+    text: function(trigger) {
+        return trigger.getAttribute('aria-label');
+    }
+});
+</script>
+```
 
 ## Reference
 
