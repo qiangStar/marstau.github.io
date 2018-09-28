@@ -76,6 +76,17 @@ description:
 ]
 ```
 
+
+#### 自动对齐/自动缩进
+
+preference->key bindings->user中编辑
+
+```
+[
+	{ "keys": ["ctrl+q"], "command": "reindent" }
+]
+```
+
 然后在当前文件中输入设置的快捷键即可跟踪工程文件位置。
 
 #### sublime text 2 对js进行重新排版[More](http://www.iplaysoft.com/sublimetext.html)
