@@ -7,6 +7,12 @@ keywords:
 description: 
 ---
 
+## 安装注册
+
+#### Microsoft Visual Studio Ultimate 2012 旗舰版
+
+密钥：YKCW6-BPFPF-BT8C9-7DCTH-QXGWC或YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
+
 ## Visual Studio 2010
 
 #### 项目环境目录：
