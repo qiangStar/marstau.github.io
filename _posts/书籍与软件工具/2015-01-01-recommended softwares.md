@@ -19,4 +19,18 @@ mac下的xftp
 
 截包工具
 
+
+## bmfont64
+
+图片转为自定义字体
+
+## EditPlus
+
+* 5.0注册码
+
+```
+注册名 Vovan
+注册码 3AG46-JJ48E-CEACC-8E6EW-ECUAW
+```
+
 ## Reference
