@@ -24,6 +24,10 @@ mac下的xftp
 
 图片转为自定义字体
 
+* More - gmglyph , glyphdesigner
+
+## glyphdesigner
+
 ## EditPlus
 
 * 5.0注册码
