@@ -125,7 +125,15 @@ new ClipboardJS('.btn', {
 </script>
 ```
 
+## 还原min.js为js文件, unminify js[More1](https://beautifier.io/)[More2](https://github.com/beautify-web/js-beautify)
+
+```
+npm -g install js-beautify
+js-beautify -f file.min.js -o file.js
+```
+
 ## Reference
 
+* [Minify JS](https://javascript-minifier.com/)
 
 
