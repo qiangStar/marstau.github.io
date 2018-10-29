@@ -22,7 +22,7 @@ mac下的xftp
 
 ## bmfont64
 
-图片转为自定义字体
+图片转为自定义字体 要使用UNICODE格式导入文字
 
 * More - gmglyph , glyphdesigner
 
