@@ -87,6 +87,11 @@ description:
 ]
 ```
 
+
+#### 导入svn库
+
+SourceTree仅支持Subversion的`svn://`的库,不支持VisualSVN等基于Apache创建的`https://`路径
+
 ## Reference
 
 
