@@ -84,4 +84,5 @@ xxhdpi:144*144px，3倍密度
 * ARMv6: iPhone, iPhone 3G, iPod 1G/2G
 
 ## Reference
+
 * <http://stackoverflow.com/questions/22328882/xcode-5-1-no-architectures-to-compile-for-only-active-arch-yes-active-arch-x>
