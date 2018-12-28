@@ -37,4 +37,6 @@ mac下的xftp
 注册码 3AG46-JJ48E-CEACC-8E6EW-ECUAW
 ```
 
+## adobe after effect
+
 ## Reference
