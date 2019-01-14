@@ -91,7 +91,7 @@ description:
 #### 导入svn库
 
 ```
-git svn init svn_url
+git svn clone svn_url
 ```
 
 ## Reference
