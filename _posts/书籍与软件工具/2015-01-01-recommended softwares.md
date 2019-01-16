@@ -37,6 +37,15 @@ mac下的xftp
 注册码 3AG46-JJ48E-CEACC-8E6EW-ECUAW
 ```
 
+## Visual Studio
+
+#### VS2010
+
+激活码
+```
+YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
+```
+
 ## adobe after effect
 
 ## Reference
