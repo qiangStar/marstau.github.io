@@ -142,4 +142,8 @@ ID changed sucessfully.
 
 重启电脑，打开teamviewer
 
+## Windows 解决Teamviewer 5 分钟限制[More](https://blog.csdn.net/KevinDior/article/details/79498828)
+
+修改电脑mac地址，卸载重装即可。
+
 ## Reference
