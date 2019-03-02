@@ -46,6 +46,11 @@ mac下的xftp
 YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 ```
 
+## ifunbox
+
+卸载ios系统软件
+
+
 ## adobe after effect
 
 ## Reference
