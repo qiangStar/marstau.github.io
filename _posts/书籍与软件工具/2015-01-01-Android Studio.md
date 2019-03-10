@@ -36,6 +36,11 @@ allprojects {
 }
 ```
 
+#### `Error:Execution failed for task ':app:compileDebugKotlin'. > Compilation error. See log for more details`[More](https://stackoverflow.com/questions/43848845/errorexecution-failed-for-task-appcompiledebugkotlin-compilation-error)
+
+```
+Click on Gradle (on the right side bar) then under :app choose assembleDebug (or assembleYourFlavor if you use flavors). Error will show up in Run tab. 
+```
 
 #### 编译报错
 
