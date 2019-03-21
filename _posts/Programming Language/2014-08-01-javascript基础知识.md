@@ -132,6 +132,36 @@ npm -g install js-beautify
 js-beautify -f file.min.js -o file.js
 ```
 
+#### post
+
+```
+var formData = new FormData();
+formData.append('p1', param1);
+formData.append('p2', param1);
+fetch('https://url.com/index.php/', {
+  method: 'POST',
+  headers: {
+    'Accept': 'application/json',
+    'Content-Type': 'application/x-www-form-urlencoded',
+  },
+  body: formData
+})
+```
+
+```
+fetch('https://mywebsite.com/endpoint/', {
+  method: 'POST',
+  headers: {
+    'Accept': 'application/json',
+    'Content-Type': 'application/json',
+  },
+  body: JSON.stringify({
+    p1: 'yourValue',
+    p2: 'yourOtherValue',
+  })
+})
+```
+
 ## Reference
 
 * [Minify JS](https://javascript-minifier.com/)
