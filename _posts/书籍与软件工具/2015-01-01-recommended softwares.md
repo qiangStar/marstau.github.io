@@ -24,7 +24,7 @@ mac下的xftp
 
 图片转为自定义字体 要使用UNICODE格式导入文字
 
-* More - gmglyph , glyphdesigner
+* More - gmglyph, glyphdesigner
 
 ## glyphdesigner
 
@@ -58,5 +58,6 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 ## [javTunes - 谜片神器本地管理av视频](http://jav-tunes.com/)
 ## Ember Media Manager
 ## tinyMediaManager
+## btsync
 
 ## Reference
