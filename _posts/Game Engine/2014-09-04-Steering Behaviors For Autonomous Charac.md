@@ -2,7 +2,7 @@
 layout: post
 title: Steering Behaviors For Autonomous Charac
 category: 编程开发
-tags: DirectX
+tags: Game　Engine
 keywords: 
 description: 
 ---

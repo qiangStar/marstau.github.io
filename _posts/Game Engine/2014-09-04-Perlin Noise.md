@@ -2,7 +2,7 @@
 layout: post
 title: Perlin Noise
 category: 编程开发
-tags: DirectX
+tags: Game　Engine
 keywords: 
 description: 
 ---
