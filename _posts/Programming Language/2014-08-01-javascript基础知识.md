@@ -162,6 +162,16 @@ fetch('https://mywebsite.com/endpoint/', {
 })
 ```
 
+#### AES加密[More](http://www.fairyland.live/wordpress/2017/03/16/php%E4%B8%8Ejavascript%E5%85%BC%E5%AE%B9%E7%9A%84aes%E5%8A%A0%E8%A7%A3%E5%AF%86/)
+
+```
+var CryptoJS = require("crypto-js")
+var key = CryptoJS.enc.Utf8.parse("amOWLGDgZCyrG4ARTDf64Qn3FEigIQhw");
+var iv =  CryptoJS.enc.Utf8.parse("PPwFSQW0i7d3Unpa4ZmmILPcznV51AAa");
+var encrypted = CryptoJS.AES.encrypt("message", key, {iv:iv,mode: CryptoJS.mode.CBC, padding: CryptoJS.pad.Pkcs7})
+console.log("encrypted=" + encrypted.toString())
+```
+
 ## Reference
 
 * [Minify JS](https://javascript-minifier.com/)
