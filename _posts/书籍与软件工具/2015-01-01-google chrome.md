@@ -32,4 +32,5 @@ C:\Users\mars\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions\
 
 ## Reference
 
-* 
+* [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
+* [Chrome Web Store](https://chrome.google.com/webstore/category/extensions)
