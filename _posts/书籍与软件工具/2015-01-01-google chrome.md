@@ -30,6 +30,13 @@ C:\Users\mars\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions\
 系统偏好设置－通用－允许在这台Mac和iCloud设备之间使用Handoff， 将这个选项关闭即可
 ```
 
+#### mac下禁止更新
+
+删除文件
+```
+/Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle
+```
+
 ## Reference
 
 * [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
