@@ -13,6 +13,12 @@ description:
 
 选择“会话”->“会话设置”里面的 “比较”选项卡，勾上“比较内容”->“二进制比较”
 
+## Error
+
+#### 这个授权密钥已被吊销
+
+删除目录`C:\Users\Administrator\AppData\Roaming\Scooter Software\Beyond Compare 4`下的所有文件(但需要重新注册)
+
 ## Reference
 
 * []()
