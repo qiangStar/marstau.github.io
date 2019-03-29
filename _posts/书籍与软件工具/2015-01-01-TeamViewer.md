@@ -7,7 +7,9 @@ keywords: TeamViewer
 description: 
 ---
 
-## MAC系统下解决Teamviewer 5 分钟限制[More](https://www.jianshu.com/p/6ab182b478d4)
+## FAQ
+
+#### MAC系统下解决Teamviewer 5 分钟限制[More](https://www.jianshu.com/p/6ab182b478d4)
 
 运行如下代码`sudo python reset.py`
 
@@ -142,7 +144,8 @@ ID changed sucessfully.
 
 重启电脑，打开teamviewer
 
-## Windows 解决Teamviewer 5 分钟限制[More](https://blog.csdn.net/KevinDior/article/details/79498828)
+
+#### Windows 解决Teamviewer 5 分钟限制[More](https://blog.csdn.net/KevinDior/article/details/79498828)
 
 修改电脑mac地址，卸载重装即可。
 
