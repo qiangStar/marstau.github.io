@@ -50,6 +50,11 @@ YCFHQ-9DWCY-DKV88-T2TMH-G7BHP
 
 卸载ios系统软件
 
+## Total Uninstall 卸载软件
+
+注册码
+```
+```
 
 ## adobe after effect
 
