@@ -51,4 +51,4 @@ locals:
   archive: 归档
   content: 目录
 
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
