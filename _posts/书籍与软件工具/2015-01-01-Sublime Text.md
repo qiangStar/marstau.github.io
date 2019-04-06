@@ -109,7 +109,7 @@ JsFormat 的功能就是可以将一些凌乱的 JavaScript 代码重新排版�
 
 会自动打开网页
 
-安装MarkdownPreview后，设置按键
+安装`MarkdownPreview`后，设置按键
 
 ```
 { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  }
