@@ -2,8 +2,8 @@
 layout: post
 title: Gateway Server
 category: 左右互搏
-tags: gateway, server
-keywords: gateway, server
+tags: gateway server
+keywords: gateway server
 description: 
 ---
 
