@@ -13,8 +13,6 @@ description:
 
 #### [MGit](https://github.com/maks/MGit)
 
-#### [GitNex](https://gitlab.com/mmarif4u/gitnex)
-
 ## git for iphone
 
 #### [WorkingCopy](https://workingcopyapp.com/)
