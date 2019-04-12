@@ -129,6 +129,29 @@ Preferences -> Package Settings -> Markdown Preview -> Settings
 再次Ctrl+shift+p, 输入LiveReload: Enable/disable plug-ins, 回车, 选择 Simple Reload with delay (400ms)或者Simple Reload，两者的区别仅仅在于后者没有延迟。
 ```
 
+#### [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditin): markdown格式工具
+
+black theme[More](http://www.javatronic.fr/articles/2014/01/10/tuning_sublime_for_markdown_editing.html)
+`Preferences > Package Settings > MarkdownEditing > Markdown GFM Settings - User`
+```
+{
+  "extensions":
+  [
+    "md",
+    "mdown",
+    "txt",
+    "markdown"
+  ],
+
+  "color_scheme": "Packages/MarkdownEditing/MarkdownEditor-Dark.tmTheme",
+
+  // Layout
+  "draw_centered": false,
+  "word_wrap": false,
+  "wrap_width": 120
+}
+```
+
 #### 搜索去除部分目录
 
 全局搜索的Where中输入诸如:`-web/node_modules,-web/dist`语句
