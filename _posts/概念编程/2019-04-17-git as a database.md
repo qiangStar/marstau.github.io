@@ -22,6 +22,8 @@ description:
 
 #### [hermitdb](https://github.com/hermits-grove/hermitdb)
 
+#### [GitPython](https://github.com/gitpython-developers/GitPython)
+
 ## Reference
 
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
