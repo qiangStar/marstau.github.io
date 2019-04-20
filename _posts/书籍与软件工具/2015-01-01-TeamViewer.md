@@ -9,7 +9,7 @@ description:
 
 ## FAQ
 
-#### MAC系统下解决Teamviewer 5 分钟限制[More](https://www.jianshu.com/p/6ab182b478d4)
+#### MAC系统下解决Teamviewer <=13.X以下版本 5 分钟限制[More](https://www.jianshu.com/p/6ab182b478d4)
 
 运行如下代码`sudo python reset.py`
 
