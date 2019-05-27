@@ -88,12 +88,6 @@ description:
 ```
 
 
-#### 导入svn库
-
-```
-git svn clone svn_url
-```
-
 ## Reference
 
 
