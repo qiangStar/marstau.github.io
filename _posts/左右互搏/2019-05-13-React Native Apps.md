@@ -8,11 +8,13 @@ description:
 ---
 
 #### [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat)
-#### [f8app](https://github.com/fbsamples/f8app)
 #### [joplin - a note taking and to-do application](https://github.com/laurent22/joplin)
 #### [den](https://github.com/asamiller/den)
-
 #### [status](https://github.com/status-im/status-react/)
+#### [git-point - GitHub in your pocket](https://github.com/gitpoint/git-point)
+
+
+#### [f8app](https://github.com/fbsamples/f8app)
 
 #### [ComicBook](https://github.com/liyuechun/ComicBook)
 
@@ -20,7 +22,6 @@ description:
 
 #### [iReading](https://github.com/attentiveness/reading)
 
-#### [git-point - GitHub in your pocket](https://github.com/gitpoint/git-point)
 
 #### [ZhiHuDaily-React-Native](https://github.com/race604/ZhiHuDaily-React-Native)
 
