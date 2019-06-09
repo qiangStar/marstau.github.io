@@ -13,6 +13,14 @@ description:
 File->Project Structure
 ```
 
+#### 快捷键
+
+```
+import package -> Alt + Enter
+```
+
+## FAQ
+
 
 ## Errors
 
