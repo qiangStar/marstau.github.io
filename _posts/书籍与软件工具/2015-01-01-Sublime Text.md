@@ -66,6 +66,12 @@ description:
 ([^\n^|]*)[|]
 ```
 
+#### 隐藏某些文件[More](https://zhidao.baidu.com/question/2057317553393860987.html)
+
+```
+"file_exclude_patterns": ["*.meta"]
+```
+
 #### 定位文件到左边工程所在位置[More](http://julianhigman.com/blog/2013/07/23/sublime-text-3-keyboard-shortcut-to-reveal-file-in-sidebar/)
 
 首选项->按键绑定 - 用户，下添加如下:
