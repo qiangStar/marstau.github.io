@@ -37,6 +37,20 @@ C:\Users\mars\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions\
 /Library/Google/GoogleSoftwareUpdate/GoogleSoftwareUpdate.bundle
 ```
 
+#### 历史版本下载[More](https://www.izhangheng.com/chrome-and-chrome-os-download-collection)[More2](https://google_chrome.zh.downloadastro.com/old_versions/)
+
+[安卓下载](https://www.wandoujia.com/apps/280309/history)
+[Windows下载](http://mydown.yesky.com/pcsoft/416318/versions)
+[mac下载](https://google-chrome.en.uptodown.com/mac/versions)
+```好像失效了
+http://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
+
+要想下载历史版本 Chrome，必须先确定要下载的版本号，然后取版本号第二个小数点后的数字。比如4.0.266.0的下载地址就是：
+eg:
+http://dl.google.com/chrome/install/195.38/chrome_installer.exe
+
+```
+
 ## Reference
 
 * [Chrome Developer Dashboard](https://chrome.google.com/webstore/developer/dashboard)
