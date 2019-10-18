@@ -42,6 +42,7 @@ C:\Users\mars\AppData\Local\Google\Chrome\User Data\Profile 1\Extensions\
 [安卓下载](https://www.wandoujia.com/apps/280309/history)
 [Windows下载](http://mydown.yesky.com/pcsoft/416318/versions)
 [mac下载](https://google-chrome.en.uptodown.com/mac/versions)
+[免安装版下载](https://www.jianshu.com/p/b58d762268e0)
 ```好像失效了
 http://dl.google.com/chrome/install/[版本号后两位]/chrome_installer.exe
 
