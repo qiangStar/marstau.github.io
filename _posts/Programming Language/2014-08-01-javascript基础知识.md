@@ -172,6 +172,13 @@ var encrypted = CryptoJS.AES.encrypt("message", key, {iv:iv,mode: CryptoJS.mode.
 console.log("encrypted=" + encrypted.toString())
 ```
 
+#### 位运算代替求余运算提高效率
+
+```
+a % b = a - (a / b)*b
+a % b = a & (b-1) // 当b为2^n的时候
+```
+
 ## Reference
 
 * [Minify JS](https://javascript-minifier.com/)
