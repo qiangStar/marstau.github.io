@@ -162,6 +162,17 @@ black theme[More](http://www.javatronic.fr/articles/2014/01/10/tuning_sublime_fo
 
 全局搜索的Where中输入诸如:`-web/node_modules,-web/dist`语句
 
+
+## 设置
+
+```
+[
+    { "keys": ["ctrl+shift+w"], "command": "reveal_in_side_bar"},
+    { "keys": ["alt+f2"], "command": "toggle_bookmark" },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  }
+]
+```
+
 ## Reference
 
 * [正则使用](http://blog.sina.com.cn/s/blog_df71a16c0101k0q0.html)
