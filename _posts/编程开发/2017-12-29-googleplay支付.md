@@ -49,6 +49,22 @@ protected void onActivityResult(int requestCode, int resultCode, Intent data) {
 keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore | openssl sha1 -binary | openssl base64
 ```
 
+
+## ERROR
+
+#### 登录一直提示，正在核对信息
+
+环境:MIUI 9.8.29开发版
+
+方法1:
+下载[ourplay](https://www.ourplay.net/)
+
+方法2[More](https://www.zhihu.com/question/48890950/answer/344714468)
+1. 无论从Go谷歌安装器还是任意其他安装器安装的谷歌四件套，先卸载干净。一般软件内部提供卸载功能。卸载完重启；下载提供的网盘文件夹（链接: https://pan.baidu.com/s/1aWJhb6xOdljFMShLQsN9wQ 密码: 35rk），整个文件夹下载下来；进入 MIUI 本地备份功能（设置 - 更多设置 - 备份和重置 - 本地备份）新建一个备份，随便备份一个程序；将网盘下载的文件夹整个放进 MIUI 备份文件夹目录（\MIUI\backup\AllBackup\）切回本地备份功能，出现了一个包含 4 个备份的新备份，全选，开始恢复；重启手机
+2. 清除软件所有缓存信息并开启所有权限，全程开启vpn
+3. 到酷安市场下载最新的google play store
+4. 打开后等一阵，频繁试几次
+
 ## Reference
 
 * <https://developer.android.com/google/play/billing/billing_integrate.html>
