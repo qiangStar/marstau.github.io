@@ -65,6 +65,12 @@ keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore |
 3. 到酷安市场下载最新的google play store
 4. 打开后等一阵，频繁试几次
 
+#### google play审核报SSL Error Handler[More](https://ask.dcloud.net.cn/question/52727)
+
+```
+要纠正这个问题，请在服务器提供的证书满足您的期望时更新您的应用程序代码以调用SslErrorHandler.proceed（），否则请调用SslErrorHandler.cancel（）。
+如果您使用负责此事的第三方库，请通知第三方并与他们合作解决问题。
+```
 ## Reference
 
 * <https://developer.android.com/google/play/billing/billing_integrate.html>
