@@ -64,6 +64,7 @@ keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore |
 2. 清除软件所有缓存信息并开启所有权限，全程开启vpn
 3. 到酷安市场下载最新的google play store
 4. 打开后等一阵，频繁试几次
+5. 将套件去 www.apkmirror.com 更新到最新版本
 
 #### google play审核报SSL Error Handler[More](https://ask.dcloud.net.cn/question/52727)
 
@@ -74,3 +75,6 @@ keytool -exportcert -alias androiddebugkey -keystore ~/.android/debug.keystore |
 ## Reference
 
 * <https://developer.android.com/google/play/billing/billing_integrate.html>
+* [google-services-framework](https://www.apkmirror.com/apk/google-inc/google-services-framework/)
+* [google-play-services](https://www.apkmirror.com/apk/google-inc/google-play-services/)
+* [google-play-store](https://www.apkmirror.com/apk/google-inc/google-play-store/)
