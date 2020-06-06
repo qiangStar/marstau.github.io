@@ -168,7 +168,11 @@ WPD800-50832-68032-66966
 ### Advanced SystemCare v6.4.0
 
 
+## Android
 
+### MT管理器
+
+安卓逆向工具
 
 
 ## MAC OS X
@@ -185,6 +189,9 @@ xftp工具
 
 xftp
 
+### Apple Configurator 2
+
+mac安装ipa工具
 
 ### bmglyph
 
