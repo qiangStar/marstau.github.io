@@ -87,6 +87,33 @@ description:
 ]
 ```
 
+## ERROR
+
+#### `Can't locate Git/SVN.pm in @INC (you may need to install the Git::SVN module)`[More](https://github.wangkaimin.com/2018/09/05/git-svn-mac-error.html)
+
+mac下,SourceTree管理svn,拉取报错。
+```
+Can't locate Git/SVN.pm in @INC (you may need to install the Git::SVN module)
+
+BEGIN failed--compilation aborted at
+/Applications/Sourcetree.app/Contents/Resources/git_local/libexec/git-core/git-svn line 21.
+```
+
+10.13.x Solution:
+```
+sudo cpan Git::SVN
+sudo ln -s /Applications/Xcode.app/Contents/Developer/Library/Perl/5.18/darwin-thread-multi-2level/SVN/ /Library/Perl/5.18/SVN 
+sudo mkdir /Library/Perl/5.18/auto
+sudo ln -s /Applications/Xcode.app/Contents/Developer/Library/Perl/5.18/darwin-thread-multi-2level/auto/SVN/ /Library/Perl/5.18/auto/SVN
+```
+
+
+10.15.4 Solution:[More](https://blog.meathill.com/perl/set-up-perl-on-new-mac.html)
+```
+sudo cpan install SVN::Core
+
+/usr/local/opt/apr --with-apr-util=/usr/local/opt/apr-util
+```
 
 ## Reference
 

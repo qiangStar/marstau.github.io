@@ -7,11 +7,19 @@ keywords:
 description: 
 ---
 
-## 安装注册
+## Installation
 
 #### Microsoft Visual Studio Ultimate 2012 旗舰版
 
 密钥:YKCW6-BPFPF-BT8C9-7DCTH-QXGWC或YQ7PR-QTHDM-HCBCV-9GKGG-TB2TM
+
+#### VS2013
+
+密钥: BWG7X-J98B3-W34RT-33B3R-JVYW9
+
+#### VS2012
+
+密钥: YKCW6-BPFPF-BT8C9-7DCTH-QXGWC
 
 ## Visual Studio 2010
 

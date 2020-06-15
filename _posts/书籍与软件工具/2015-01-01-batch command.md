@@ -148,6 +148,13 @@ exit /b 0
 3. 若为环境变量 %var% => %var:"=%
 ```
 
+#### 字符串比较
+
+```
+if "%tag%" equ "str" (
+)
+```
+
 ## Reference
 
 * [Command-line reference](http://technet.microsoft.com/en-us/library/bb490890.aspx)
