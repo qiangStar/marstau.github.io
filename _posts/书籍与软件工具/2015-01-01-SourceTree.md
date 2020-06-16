@@ -115,6 +115,13 @@ sudo cpan install SVN::Core
 /usr/local/opt/apr --with-apr-util=/usr/local/opt/apr-util
 ```
 
+#### you may need to install the SVN::Core module[More](https://blog.meathill.com/perl/set-up-perl-on-new-mac.html)
+
+```
+brew install perl
+sudo cpan SVN::Core
+```
+
 ## Reference
 
 
