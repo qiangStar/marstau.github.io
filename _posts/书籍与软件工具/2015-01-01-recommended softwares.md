@@ -224,10 +224,21 @@ email:Soar360@live.com
 license:GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6bnxn2kSE8qHqNY5QaaRxmO3YSMHxlv2EYpjdwLcPwfeTG7kUdnhKE0vVy4RidP6Y2wZ0q74f47fzsZo45JE2hfQBFi2O9Jldjp1mW8HUpTtLA2a5/sQytXJUQl/QKO0jUQY4pa5CCx20sV1ClOTZtAGngSOJtIOFXK599sBr5aIEFyH0K7H4BoNMiiDMnxt1rD8Vb/ikJdhGMMQr0R4B+L3nWU97eaVPTRKfWGDE8/eAgKzpGwrQQoDh+nzX1xoVQ8NAuH+s4UcSeQ==
 ```
 
+##
+
 ### changes
 
 ```
 将 用户名/资源库/Application Support/Changes目录下问文件删除,并将Changes目录锁定，设置为只读权限即可。
+```
+
+## Android
+
+####
+
+```
+google settings shortcut (android 广告id)
+device id (android device id)
 ```
 
 ## Reference
