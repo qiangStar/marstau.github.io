@@ -200,7 +200,7 @@ xftp
 
 ### Apple Configurator 2
 
-mac安装ipa工具
+mac安装ios的ipa工具
 
 ### bmglyph
 

@@ -110,8 +110,8 @@ sudo ln -s /Applications/Xcode.app/Contents/Developer/Library/Perl/5.18/darwin-t
 
 10.15.4 Solution:[More](https://blog.meathill.com/perl/set-up-perl-on-new-mac.html)
 ```
+sudo cpan install YAML
 sudo cpan install SVN::Core
-
 /usr/local/opt/apr --with-apr-util=/usr/local/opt/apr-util
 ```
 
@@ -119,8 +119,11 @@ sudo cpan install SVN::Core
 
 ```
 brew install perl
-sudo cpan SVN::Core
+sudo cpan install SVN::Core
 ```
+
+#### `configuring SVN failed at inc/My/SVN/Builder.pm line 118, <STDIN> line 3 Something went wrong with the Subversion configuration`
+
 
 ## Reference
 
