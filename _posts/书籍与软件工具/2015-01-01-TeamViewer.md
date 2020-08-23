@@ -161,6 +161,6 @@ ID changed sucessfully.
 
 #### TeamViewer 可免费用于个人用途,但所使用的设备数量受限。
 
-用新手机号注册一个新账号
+用新手机号注册一个新账号,目标电脑不要登录
 
 ## Reference
