@@ -159,4 +159,8 @@ ID changed sucessfully.
 
 修改电脑mac地址，卸载重装即可。
 
+#### TeamViewer 可免费用于个人用途,但所使用的设备数量受限。
+
+用新手机号注册一个新账号,目标电脑不要登录
+
 ## Reference
