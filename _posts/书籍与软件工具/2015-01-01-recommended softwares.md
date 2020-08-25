@@ -229,7 +229,7 @@ license:GBPduHjWfJU1mZqcPM3BikjYKF6xKhlKIys3i1MU2eJHqWGImDHzWdD6xhMNLGVpbP2M5SN6
 ### changes
 
 ```
-将 用户名/资源库/Application Support/Changes目录下问文件删除,并将Changes目录锁定，设置为只读权限即可。
+将 用户名/资源库/Application Support/Changes目录下文件删除,并将Changes目录锁定，设置为只读权限即可。
 ```
 
 ## Android
