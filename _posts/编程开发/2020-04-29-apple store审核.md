@@ -16,6 +16,9 @@ description:
 
 #### Apple审核机制（4.3）[More1](https://www.csdn.net/gather_2f/MtjaIg2sNTU1OC1ibG9n.html),[More2](https://blog.csdn.net/lyzz0612/article/details/80390362)
 
+可行性方法一:
+如果确认这个包不是马甲包,只是跟之前的包有什么区别，联系苹果说明清楚原因即可。
+
 方法一：
 * 资源文件路径修改
 
@@ -34,6 +37,8 @@ description:
 方法二:
 
 * 把所有资源打成加密zip包+xor加密，启动时再解压执行。这样苹果机审应该不可能扫出重复资源来[More](https://github.com/lyzz0612/iosMixTools)
+
+
 ## Reference
 
 
