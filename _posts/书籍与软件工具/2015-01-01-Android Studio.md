@@ -63,5 +63,10 @@ compile 'com.android.support:appcompat-v7:26+'
 compile 'com.android.support:percent:26.0.0'
 compile 'com.android.support.constraint:constraint-layout:1.0.2'
 ```
+
+
+#### Android实现Multidex及指定主dex中的class[More](https://developer.android.com/studio/build/multidex?hl=zh-cn), More2[https://blog.csdn.net/u010746456/article/details/80150267]
+
+
 ## Reference
 
