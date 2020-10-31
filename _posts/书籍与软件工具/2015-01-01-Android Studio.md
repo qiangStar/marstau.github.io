@@ -67,6 +67,18 @@ compile 'com.android.support.constraint:constraint-layout:1.0.2'
 
 #### Android实现Multidex及指定主dex中的class[More](https://developer.android.com/studio/build/multidex?hl=zh-cn), More2[https://blog.csdn.net/u010746456/article/details/80150267]
 
+#### 部分手机安卓崩溃,提示`only fullscreen opaque activities can request orientation`
+
+```
+android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" />
+修改为
+android:theme="@android:style/Theme.NoTitleBar" />
+
+添加
+<uses-permission android:name="android.permission.OBSERVE_GRANT_REVOKE_PERMISSIONS"
+    tools:ignore="ProtectedPermissions"/>
+```
+
 
 ## Reference
 
