@@ -135,6 +135,13 @@ Preferences -> Package Settings -> Markdown Preview -> Settings
 再次Ctrl+shift+p, 输入LiveReload: Enable/disable plug-ins, 回车, 选择 Simple Reload with delay (400ms)或者Simple Reload，两者的区别仅仅在于后者没有延迟。
 ```
 
+#### 文件夹显示过滤[More](https://developer.aliyun.com/article/356415)
+
+Preferences->Setting-User添加如下命令：
+```
+"file_exclude_patterns": ["*.mate", "*.gif","*.png"]
+```
+
 #### [MarkdownEditing](https://github.com/SublimeText-Markdown/MarkdownEditin): markdown格式工具
 
 black theme[More](http://www.javatronic.fr/articles/2014/01/10/tuning_sublime_for_markdown_editing.html)
