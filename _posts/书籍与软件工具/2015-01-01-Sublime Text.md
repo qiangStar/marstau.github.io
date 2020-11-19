@@ -68,6 +68,7 @@ description:
 
 #### 隐藏某些文件[More](https://zhidao.baidu.com/question/2057317553393860987.html)
 
+`preffernce-->setting-->user`
 ```
 "file_exclude_patterns": ["*.meta"]
 ```
@@ -170,13 +171,16 @@ black theme[More](http://www.javatronic.fr/articles/2014/01/10/tuning_sublime_fo
 全局搜索的Where中输入诸如:`-web/node_modules,-web/dist`语句
 
 
+#### 右键添加sublime[More](https://www.cnblogs.com/shiwanghualuo/p/12271274.html)
+
 ## 设置
 
 ```
 [
     { "keys": ["ctrl+shift+w"], "command": "reveal_in_side_bar"},
     { "keys": ["alt+f2"], "command": "toggle_bookmark" },
-    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  }
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"markdown"}  },
+    { "keys": ["ctrl+u"], "command": "open_dir",  "args": { "dir": "$file_path", "file": "$file_name" } }
 ]
 ```
 
