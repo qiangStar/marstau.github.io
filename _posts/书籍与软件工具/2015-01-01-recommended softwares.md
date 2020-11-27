@@ -186,6 +186,10 @@ VA510-23F57-M85PY-7FN7C-MCRG0
 
 ## MAC OS X
 
+### Little Snitch Configuration
+
+网络监视器
+
 ### Transmit
 
 xftp工具
